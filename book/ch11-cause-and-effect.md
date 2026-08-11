@@ -36,7 +36,9 @@ Recognizing that the historical or narrative mode of analysis involves telling a
 
 Judgments of coherence may be influenced by many extraneous factors, and if analysts tend to favor certain types of explanations as more coherent than others, they will be biased in favor of those explanations.
 
-Bias in Favor of Causal Explanations One bias attributable to the search for coherence is a tendency to favor causal explanations. Coherence implies order, so people naturally arrange observations into regular patterns and relationships. If no pattern is apparent, our first thought is that we lack understanding, not that we are dealing with random phenomena that have no purpose or reason.
+## Bias in Favor of Causal Explanations
+
+One bias attributable to the search for coherence is a tendency to favor causal explanations. Coherence implies order, so people naturally arrange observations into regular patterns and relationships. If no pattern is apparent, our first thought is that we lack understanding, not that we are dealing with random phenomena that have no purpose or reason.
 
 As a last resort, many people attribute happenings that they cannot understand to God's will or to fate, which is somehow preordained; they resist the thought that outcomes may be determined by forces that interact in random, unpredictable ways. People generally do not accept the notion of chance or randomness.
 
@@ -58,7 +60,9 @@ Skinner even noted a similar phenomenon in the course of experiments with the be
 
 Skinner demonstrated that the pigeons "learned" and followed a pattern (which Skinner termed a superstition) even when the food was actually dispensed randomly.111 These examples suggest that in military and foreign affairs, where the patterns are at best difficult to fathom, there may be many events for which there are no valid causal explanations. This certainly affects the predictability of events and suggests limitations on what might logically be expected of intelligence analysts.
 
-Bias Favoring Perception of Centralized Direction Very similar to the bias toward causal explanations is a tendency to see the actions of other governments (or groups of any type) as the intentional result of centralized direction and planning. ". . .most people are slow to perceive accidents, unintended consequences, coincidences, and small causes leading to large effects.
+## Bias Favoring Perception of Centralized Direction
+
+Very similar to the bias toward causal explanations is a tendency to see the actions of other governments (or groups of any type) as the intentional result of centralized direction and planning. ". . .most people are slow to perceive accidents, unintended consequences, coincidences, and small causes leading to large effects.
 
 Instead, coordinated actions, plans and conspiracies are seen."112 Analysts overestimate the extent to which other countries are pursuing coherent, rational, goal-maximizing policies, because this makes for more coherent, logical, rational explanations. This bias also leads analysts and policymakers alike to overestimate the predictability of future events in other countries.
 
@@ -74,7 +78,9 @@ It is especially difficult to incorporate these random and usually unpredictable
 
 - Perceive inconsistent policies as the result of duplicity and Machiavellian maneuvers, rather than as the product of weak leadership, vacillation, or bargaining among diverse bureaucratic or political interests.
 
-Similarity of Cause and Effect When systematic analysis of covariation is not feasible and several alternative causal explanations seem possible, one rule of thumb people use to make judgments of cause and effect is to consider the similarity between attributes of the cause and attributes of the effect.
+## Similarity of Cause and Effect
+
+When systematic analysis of covariation is not feasible and several alternative causal explanations seem possible, one rule of thumb people use to make judgments of cause and effect is to consider the similarity between attributes of the cause and attributes of the effect.
 
 Properties of the cause are ". . .inferred on the basis of being correspondent with or similar to properties of the effect."114 Heavy things make heavy noises; dainty things move daintily; large animals leave large tracks. When dealing with physical properties, such inferences are generally correct. People tend, however, to reason in the same way under circumstances when this inference is not valid.
 
@@ -142,7 +148,9 @@ The persistent tendency to attribute cause and effect in this manner is not simp
 
 We tend to have quite different perceptions of the causes of each other's behavior.
 
-Overestimating Our Own Importance Individuals and governments tend to overestimate the extent to which they successfully influence the behavior of others.126 This is an exception to the previously noted generalization that observers attribute the behavior of others to the nature of the actor. It occurs largely because a person is so familiar with his or her own efforts to influence another, but much less well informed about other factors that may have influenced the other's decision.
+## Overestimating Our Own Importance
+
+Individuals and governments tend to overestimate the extent to which they successfully influence the behavior of others.126 This is an exception to the previously noted generalization that observers attribute the behavior of others to the nature of the actor. It occurs largely because a person is so familiar with his or her own efforts to influence another, but much less well informed about other factors that may have influenced the other's decision.
 
 In estimating the influence of US policy on the actions of another government, analysts more often than not will be knowledgeable of US actions and what they are intended to achieve, but in many instances they will be less well informed concerning the internal processes, political pressures, policy conflicts, and other influences on the decision of the target government.
 
@@ -162,7 +170,9 @@ They are much less aware of, and consequently tend to downgrade the importance o
 
 Thus actions that hurt us are commonly interpreted as intentional expressions of hostility directed at ourselves. Of course, this will often be an accurate interpretation, but people sometimes fail to recognize that actions that seem directed at them are actually the unintended consequence of decisions made for other reasons.
 
-Illusory Correlation At the start of this chapter, covariation was cited as one basis for inferring causality. It was noted that covariation may either be observed intuitively or measured statistically. This section examines the extent to which the intuitive perception of covariation deviates from the statistical measurement of covariation. Statistical measurement of covariation is known as correlation. Two events are correlated when the existence of one event implies the existence of the other.
+## Illusory Correlation
+
+At the start of this chapter, covariation was cited as one basis for inferring causality. It was noted that covariation may either be observed intuitively or measured statistically. This section examines the extent to which the intuitive perception of covariation deviates from the statistical measurement of covariation. Statistical measurement of covariation is known as correlation. Two events are correlated when the existence of one event implies the existence of the other.
 
 Variables are correlated when a change in one variable implies a similar degree of change in another. Correlation alone does not necessarily imply causation. For example, two events might co-occur because they have a common cause, rather than because one causes the other. But when two events or changes do co-occur, and the time sequence is such that one always follows the other, people often infer that the first caused the second.
 

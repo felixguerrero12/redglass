@@ -20,13 +20,17 @@ While the optimal goal of intelligence collection is complete knowledge, this go
 
 It is possible, however, to identify diverse strategies that analysts employ to process information as they prepare to pass judgment. Analytical strategies are important because they influence the data one attends to. They determine where the analyst shines his or her searchlight, and this inevitably affects the outcome of the analytical process.
 
-Strategies for Generating and Evaluating Hypotheses This book uses the term hypothesis in its broadest sense as a potential explanation or conclusion that is to be tested by collecting and presenting evidence.
+## Strategies for Generating and Evaluating Hypotheses
+
+This book uses the term hypothesis in its broadest sense as a potential explanation or conclusion that is to be tested by collecting and presenting evidence.
 
 Examination of how analysts generate and evaluate hypotheses identifies three principal strategies--the application of theory, situational logic, and comparison--each of which is discussed at some length below. A "non-strategy," immersion in the data and letting the data speak for themselves, is also discussed. This list of analytical strategies is not exhaustive.
 
 Other strategies might include, for example, projecting one's own psychological needs onto the data at hand, but this discussion is not concerned with the pathology of erroneous judgment. Rather, the goal is to understand the several kinds of careful, conscientious analysis one would hope and expect to find among a cadre of intelligence analysts dealing with highly complex issues.
 
-Situational Logic This is the most common operating mode for intelligence analysts. Generation and analysis of hypotheses start with consideration of concrete elements of the current situation, rather than with broad generalizations that encompass many similar cases. The situation is regarded as one-of-a-kind, so that it must be understood in terms of its own unique logic, rather than as one example of a broad class of comparable events.
+## Situational Logic
+
+This is the most common operating mode for intelligence analysts. Generation and analysis of hypotheses start with consideration of concrete elements of the current situation, rather than with broad generalizations that encompass many similar cases. The situation is regarded as one-of-a-kind, so that it must be understood in terms of its own unique logic, rather than as one example of a broad class of comparable events.
 
 Starting with the known facts of the current situation and an understanding of the unique forces at work at that particular time and place, the analyst seeks to identify the logical antecedents or consequences of this situation. A scenario is developed that hangs together as a plausible narrative. The analyst may work backwards to explain the origins or causes of the current situation or forward to estimate the future outcome.
 
@@ -48,7 +52,9 @@ For example, to what extent does the resurgence of long-dormant ethnic sentiment
 
 The proximate causes identified by situational logic appear, from the broader perspective of theoretical analysis, to be but symptoms indicating the presence of more fundamental causal factors. A better understanding of these fundamental causes is critical to effective forecasting, especially over the longer range. While situational logic may be the best approach to estimating shortterm developments, a more theoretical approach is required as the analytical perspective moves further into the future.
 
-Applying Theory Theory is an academic term not much in vogue in the Intelligence Community, but it is unavoidable in any discussion of analytical judgment. In one popular meaning of the term, "theoretical" is associated with the terms "impractical" and "unrealistic". Needless to say, it is used here in a quite different sense. A theory is a generalization based on the study of many examples of some phenomenon.
+## Applying Theory
+
+Theory is an academic term not much in vogue in the Intelligence Community, but it is unavoidable in any discussion of analytical judgment. In one popular meaning of the term, "theoretical" is associated with the terms "impractical" and "unrealistic". Needless to say, it is used here in a quite different sense. A theory is a generalization based on the study of many examples of some phenomenon.
 
 It specifes that when a given set of conditions arises, certain other conditions will follow either with certainty or with some degree of probability. In other words, conclusions are judged to follow from a set of conditions and a finding that these conditions apply in the specific case being analyzed. For example, Turkey is a developing country in a precarious strategic position.
 
@@ -84,7 +90,9 @@ For example, if the analyst estimating the outcome of an impending election does
 
 These assumptions form part of a theory of political behavior, but it is a different sort of theory than was discussed under theoretical analysis. It does not illuminate the entire situation, but only a small increment of the situation, and it may not apply beyond the specific country of concern. Further, it is much more likely to remain implicit, rather than be a focal point of the analysis.
 
-Comparison with Historical Situations A third approach for going beyond the available information is comparison. An analyst seeks understanding of current events by comparing them with historical precedents in the same country, or with similar events in other countries. Analogy is one form of comparison. When an historical situation is deemed comparable to current circumstances, analysts use their understanding of the historical precedent to fill gaps in their understanding of the current situation.
+## Comparison with Historical Situations
+
+A third approach for going beyond the available information is comparison. An analyst seeks understanding of current events by comparing them with historical precedents in the same country, or with similar events in other countries. Analogy is one form of comparison. When an historical situation is deemed comparable to current circumstances, analysts use their understanding of the historical precedent to fill gaps in their understanding of the current situation.
 
 Unknown elements of the present are assumed to be the same as known elements of the historical precedent. Thus, analysts reason that the same forces are at work, that the outcome of the present situation is likely to be similar to the outcome of the historical situation, or that a certain policy is required in order to avoid the same outcome as in the past.
 
@@ -116,7 +124,9 @@ Comparison can suggest the presence or the influence of variables that are not r
 
 It should not, however, form the basis for conclusions unless thorough analysis of both situations has confirmed they are indeed comparable.
 
-Data Immersion Analysts sometimes describe their work procedure as immersing themselves in the data without fitting the data into any preconceived pattern. At some point an apparent pattern (or answer or explanation) emerges spontaneously, and the analyst then goes back to the data to check how well the data support this judgment. According to this view, objectivity requires the analyst to suppress any personal opinions or preconceptions, so as to be guided only by the "facts" of the case.
+## Data Immersion
+
+Analysts sometimes describe their work procedure as immersing themselves in the data without fitting the data into any preconceived pattern. At some point an apparent pattern (or answer or explanation) emerges spontaneously, and the analyst then goes back to the data to check how well the data support this judgment. According to this view, objectivity requires the analyst to suppress any personal opinions or preconceptions, so as to be guided only by the "facts" of the case.
 
 To think of analysis in this way overlooks the fact that information cannot speak for itself. The significance of information is always a joint function of the nature of the information and the context in which it is interpreted. The context is provided by the analyst in the form of a set of assumptions and expectations concerning human and organizational behavior. These preconceptions are critical determinants of which information is considered relevant and how it is interpreted.
 
@@ -128,11 +138,11 @@ In research to determine how physicians make medical diagnoses, the doctors who 
 
 Those who stressed thorough collection of data as their principal analytical method were significantly less accurate in their diagnoses than those who described themselves as following other analytical strategies such as identifying and testing hypotheses.43 Moreover, the collection of additional data through greater thoroughness in the medical history and physical examination did not lead to increased diagnostic accuracy.44 One might speculate that the analyst who seeks greater objectivity by suppressing recognition of his or her own subjective input actually has less valid input to make.
 
-Objectivity is gained by making assumptions
+Objectivity is gained by making assumptions explicit so that they may be examined and challenged, not by vain efforts to eliminate them from analysis.
 
-## Chapter 5: Do You Really Need More Information?
+## Relationships Among Strategies
 
-Relationships Among Strategies No one strategy is necessarily better than the others. In order to generate all relevant hypotheses and make maximum use of all potentially relevant information, it would be desirable to employ all three strategies at the early hypothesis generation phase of a research project. Unfortunately, analysts commonly lack the inclination or time to do so. Different analysts have different analytical habits and preferences for analytical strategy.
+No one strategy is necessarily better than the others. In order to generate all relevant hypotheses and make maximum use of all potentially relevant information, it would be desirable to employ all three strategies at the early hypothesis generation phase of a research project. Unfortunately, analysts commonly lack the inclination or time to do so. Different analysts have different analytical habits and preferences for analytical strategy.
 
 As a broad generalization that admits numerous exceptions, analysts trained in area studies or history tend to prefer situational logic, while those with a strong social science background are more likely to bring theoretical and comparative insights to bear on their work. The Intelligence Community as a whole is far stronger in situational logic than in theory. In my judgment, intelligence analysts do not generalize enough, as opposed to many academic scholars who generalize too much.
 
@@ -144,7 +154,9 @@ Any policymaker or other senior manager who lacks the knowledge base of the spec
 
 Whether this represents sophistication or oversimplification depends upon the individual case and, perhaps, whether one agrees or disagrees with the judgments made. In any event, intelligence analysts would do well to take this phenomenon into account when writing for their consumers.
 
-Strategies for Choice Among Hypotheses A systematic analytical process requires selection among alternative hypotheses, and it is here that analytical practice often diverges significantly from the ideal and from the canons of scientific method. The ideal is to generate a full set of hypotheses, systematically evaluate each hypothesis, and then identify the hypothesis that provides the best fit to the data. Scientific method, for its part, requires that one seek to disprove hypotheses rather than confirm them.
+## Strategies for Choice Among Hypotheses
+
+A systematic analytical process requires selection among alternative hypotheses, and it is here that analytical practice often diverges significantly from the ideal and from the canons of scientific method. The ideal is to generate a full set of hypotheses, systematically evaluate each hypothesis, and then identify the hypothesis that provides the best fit to the data. Scientific method, for its part, requires that one seek to disprove hypotheses rather than confirm them.
 
 In practice, other strategies are commonly employed. Alexander George has identified a number of less-than-optimal strategies for making decisions in the face of incomplete information and multiple, competing values and goals. While George conceived of these strategies as applicable to how decisionmakers choose among alternative policies, most also apply to how intelligence analysts might decide among alternative analytical hypotheses. The relevant strategies George identified are:
 
@@ -159,11 +171,17 @@ In practice, other strategies are commonly employed. Alexander George has identi
 
 The intelligence analyst has another tempting option not available to the policymaker: to avoid judgment by simply describing the current situation, identifying alternatives, and letting the intelligence consumer make the judgment about which alternative is most likely. Most of these strategies are not discussed here. The following paragraphs focus only on the one that seems most prevalent in intelligence analysis.
 
-"Satisficing" I would suggest, based on personal experience and discussions with analysts, that most analysis is conducted in a manner very similar to the satisficing mode (selecting the first identified alternative that appears "good enough").46 The analyst identifies what appears to be the most likely hypothesis--that is, the tentative estimate, explanation, or description of the situation that appears most accurate.
+### "Satisficing"
+
+I would suggest, based on personal experience and discussions with analysts, that most analysis is conducted in a manner very similar to the satisficing mode (selecting the first identified alternative that appears "good enough").46 The analyst identifies what appears to be the most likely hypothesis--that is, the tentative estimate, explanation, or description of the situation that appears most accurate.
 
 Data are collected and organized according to whether they support this tentative judgment, and the hypothesis is accepted if it seems to provide a reasonable fit to the data. The careful analyst will then make a quick review of other possible hypotheses and of evidence not accounted for by the preferred judgment to ensure that he or she has not overlooked some important consideration.
 
-This approach has three weaknesses: the selective perception that results from focus on a single hypothesis, failure to generate a complete set of competing hypotheses, and a focus on evidence that confirms rather than disconfirms hypotheses. Each of these is discussed below. Selective Perception. Tentative hypotheses serve a useful function in helping analysts select, organize, and manage information.
+This approach has three weaknesses: the selective perception that results from focus on a single hypothesis, failure to generate a complete set of competing hypotheses, and a focus on evidence that confirms rather than disconfirms hypotheses. Each of these is discussed below.
+
+### Selective Perception
+
+Tentative hypotheses serve a useful function in helping analysts select, organize, and manage information.
 
 They narrow the scope of the problem so that the analyst can focus efficiently on data that are most relevant and important. The hypotheses serve as organizing frameworks in working memory and thus facilitate retrieval of information from memory. In short, they are essential elements of the analytical process. But their functional utility also entails some cost, because a hypothesis functions as a perceptual filter.
 
@@ -171,11 +189,17 @@ Analysts, like people in general, tend to see what they are looking for and to o
 
 If the hypothesis is incorrect, information may be lost that would suggest a new or modified hypothesis. This difficulty can be overcome by the simultaneous consideration of multiple hypotheses. This approach is discussed in detail in Chapter 8. It has the advantage of focusing attention on those few items of evidence that have the greatest diagnostic value in distinguishing among the validity of competing hypotheses.
 
-Most evidence is consistent with several different hypotheses, and this fact is easily overlooked when analysts focus on only one hypothesis at a time--especially if their focus is on seeking to confirm rather than disprove what appears to be the most likely answer. Failure To Generate Appropriate Hypotheses.
+Most evidence is consistent with several different hypotheses, and this fact is easily overlooked when analysts focus on only one hypothesis at a time--especially if their focus is on seeking to confirm rather than disprove what appears to be the most likely answer.
+
+### Failure To Generate Appropriate Hypotheses
 
 If tentative hypotheses determine the criteria for searching for information and judging its relevance, it follows that one may overlook the proper answer if it is not encompassed within the several hypotheses being considered. Research on hypothesis generation suggests that performance on this task is woefully inadequate.47 When faced with an analytical problem, people are either unable or simply do not take the time to identify the full range of potential answers.
 
-Analytical performance might be significantly enhanced by more deliberate attention to this stage of the analytical process. Analysts need to take more time to develop a full set of competing hypotheses, using all three of the previously discussed strategies--theory, situational logic, and comparison. Failure To Consider Diagnosticity of Evidence. In the absence of a complete set of alternative hypotheses, it is not possible to evaluate the "diagnosticity" of evidence.
+Analytical performance might be significantly enhanced by more deliberate attention to this stage of the analytical process. Analysts need to take more time to develop a full set of competing hypotheses, using all three of the previously discussed strategies--theory, situational logic, and comparison.
+
+### Failure To Consider Diagnosticity of Evidence
+
+In the absence of a complete set of alternative hypotheses, it is not possible to evaluate the "diagnosticity" of evidence.
 
 Unfortunately, many analysts are unfamiliar with the concept of diagnosticity of evidence. It refers to the extent to which any item of evidence helps the analyst determine the relative likelihood of alternative hypotheses. To illustrate, a high temperature may have great value in telling a doctor that a patient is sick, but relatively little value in determining which illness the patient is suffering from.
 
@@ -183,7 +207,9 @@ Because a high temperature is consistent with so many possible hypotheses about 
 
 Evidence is diagnostic when it influences an analyst's judgment on the relative likelihood of the various hypotheses. If an item of evidence seems consistent with all the hypotheses, it may have no diagnostic value at all. It is a common experience to discover that most available evidence really is not very helpful, as it can be reconciled with all the hypotheses.
 
-Failure To Reject Hypotheses Scientific method is based on the principle of rejecting hypotheses, while tentatively accepting only those hypotheses that cannot be refuted. Intuitive analysis, by comparison, generally concentrates on confirming a hypothesis and commonly accords more weight to evidence supporting a hypothesis than to evidence that weakens it. Ideally, the reverse would be true.
+### Failure To Reject Hypotheses
+
+Scientific method is based on the principle of rejecting hypotheses, while tentatively accepting only those hypotheses that cannot be refuted. Intuitive analysis, by comparison, generally concentrates on confirming a hypothesis and commonly accords more weight to evidence supporting a hypothesis than to evidence that weakens it. Ideally, the reverse would be true.
 
 While analysts usually cannot apply the statistical procedures of scientific methodology to test their hypotheses, they can and should adopt the conceptual strategy of seeking to refute rather than confirm hypotheses. There are two aspects to this problem: people do not naturally seek disconfirming evidence, and when such evidence is received it tends to be discounted.
 
@@ -208,7 +234,9 @@ When this same experiment was repeated by a different researcher for a somewhat 
 - 4 - 6 sequence is consistent with such a large number of hypotheses.
 It was easy for test subjects to obtain confirmatory evidence for almost any hypothesis they tried to confirm. It is important to recognize that comparable situations, when evidence is consistent with several different hypotheses, are extremely common in intelligence analysis. Consider lists of early warning indicators, for example. They are designed to be indicative of an impending attack. Very many of them, however, are also consistent with the hypothesis that military movements are a bluf to exert diplomatic pressure and that no military action will be forthcoming. When analysts seize upon only one of these hypotheses and seek evidence to confirm it, they will often be led astray. The evidence available to the intelligence analyst is in one important sense different from the evidence available to test subjects asked to infer the number sequence rule. The intelligence analyst commonly deals with problems in which the evidence has only a probabilistic relationship to the hypotheses being considered. Thus it is seldom possible to eliminate any hypothesis entirely, because the most one can say is that a given hypothesis is unlikely given the nature of the evidence, not that it is impossible. This weakens the conclusions that can be drawn from a strategy aimed at eliminating hypotheses, but it does not in any way justify a strategy aimed at confirming them. Circumstances and insufficient data often preclude the application of rigorous scientific procedures in intelligence analysis—including, in particular, statistical methods for testing hypotheses. There is, however, certainly no reason why the basic conceptual strategy of looking for contrary evidence cannot be employed. An optimal analytical strategy requires that analysts search for information to disconfirm their favorite theories, not employ a satisficing strategy that permits acceptance of the first hypothesis that seems consistent with the evidence.
 
-Conclusion There are many detailed assessments of intelligence failures, but few comparable descriptions of intelligence successes. In reviewing the literature on intelligence successes, Frank Stech found many examples of success but only three accounts that provide sufficient methodological details to shed light on the intellectual processes and methods that contributed to the successes.
+## Conclusion
+
+There are many detailed assessments of intelligence failures, but few comparable descriptions of intelligence successes. In reviewing the literature on intelligence successes, Frank Stech found many examples of success but only three accounts that provide sufficient methodological details to shed light on the intellectual processes and methods that contributed to the successes.
 
 These dealt with successful American and British intelligence efforts during World War II to analyze German propaganda, predict German submarine movements, and estimate future capabilities and intentions of the German Air Force.51 Stech notes that in each of these highly successful efforts, the analysts employed procedures that ". . . facilitated the formulation and testing against each other of alternative hypothetical estimates of enemy intentions.
 
@@ -232,7 +260,7 @@ Retaining multiple hypotheses in working memory and noting how each item of evid
 
 43. Arthur S. Elstein, Lee S. Shulman, and Sarah A. Sprafka, Medical Problem Solving: An Analysis of Clinical Reasoning (Cambridge, MA: Harvard University Press, 1978), p. 270.
 
-44. Ibid., p. 281. For more extensive discussion of the value of additional information, see
+44. Ibid., p. 281. For more extensive discussion of the value of additional information, see Chapter 5, "Do You Really Need More Information?"
 
 45. Alexander George, Presidential Decisionmaking in Foreign Policy: The Effective Use of Information and Advice (Boulder, CO: Westview Press, 1980), Chapter 2.
 

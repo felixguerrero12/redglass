@@ -42,7 +42,9 @@ One specialist in creativity has observed that "for the purpose of moving our mi
 
 They can manipulate individual elements of the problem to examine the many alternatives available through rearranging, combining, or modifying them. Variables may be given more weight or deleted, causal relationships reconceptualized, or conceptual categories redefined. Such thoughts may arise spontaneously, but they are more likely to occur when an analyst looks at each element, one by one, and asks questions designed to encourage and facilitate consideration of alternative interpretations.
 
-Problem Structure Anything that has parts also has a structure that relates these parts to each other. One of the first steps in doing analysis is to determine an appropriate structure for the analytical problem, so that one can then identify the various parts and begin assembling information on them. Because there are many different kinds of analytical problems, there are also many different ways to structure analysis. Lists such as Franklin made are one of the simplest structures.
+## Problem Structure
+
+Anything that has parts also has a structure that relates these parts to each other. One of the first steps in doing analysis is to determine an appropriate structure for the analytical problem, so that one can then identify the various parts and begin assembling information on them. Because there are many different kinds of analytical problems, there are also many different ways to structure analysis. Lists such as Franklin made are one of the simplest structures.
 
 An intelligence analyst might make lists of relevant variables, early warning indicators, alternative explanations, possible outcomes, factors a foreign leader will need to take into account when making a decision, or arguments for and against a given explanation or outcome. Other tools for structuring a problem include outlines, tables, diagrams, trees, and matrices, with many sub-species of each. For example, trees include decision trees and fault trees.
 
@@ -50,7 +52,9 @@ Diagrams includes causal diagrams, influence diagrams, fow charts, and cognitive
 
 It recommends using a matrix to array evidence for and against competing hypotheses to explain what is happening now or estimate what may happen in the future. The discussion below also uses a matrix to illustrate decomposition and externalization and is intended to prepare you for the next chapter on "Analysis of Competing Hypotheses." It demonstrates how to apply these tools to a type of decision commonly encountered in our personal lives.
 
-Car Purchase Matrix In choosing among alternative purchases, such as when buying a car, a new computer, or a house, people often want to maximize their satisfaction on a number of sometimes-conflicting dimensions. They want a car at the lowest possible price, with the lowest maintenance cost, highest resale value, slickest styling, best handling, best gas mileage, largest trunk space, and so forth. They can't have it all, so they must decide what is most important and make tradeoffs.
+## Car Purchase Matrix
+
+In choosing among alternative purchases, such as when buying a car, a new computer, or a house, people often want to maximize their satisfaction on a number of sometimes-conflicting dimensions. They want a car at the lowest possible price, with the lowest maintenance cost, highest resale value, slickest styling, best handling, best gas mileage, largest trunk space, and so forth. They can't have it all, so they must decide what is most important and make tradeoffs.
 
 As Ben Franklin said, the choice is sometimes difficult. We vacillate between one choice and another, because we cannot keep in working memory at the same time all the characteristics of all the choices. We think first of one and then the other. To handle this problem analytically, follow the divide-and-conquer principle and "draw a picture" of the problem as a whole that helps you identify and make the tradeoffs.
 
@@ -74,7 +78,9 @@ At this point, you do a sensitivity analysis to determine whether plausible chan
 
 That is still not quite enough to switch the choice to Car 2, which rates highest on styling.) There is a technical name for this type of analysis. It is called Multiattribute Utility Analysis, and there are complex computer programs for doing it. In simplified form, however, it requires only pencil and paper and high school arithmetic. It is an appropriate structure for any purchase decision in which you must make tradeoffs between multiple competing preferences.
 
-Conclusions The car purchase example was a warmup for the following chapter. It illustrates the difference between just sitting down and thinking about a problem and really analyzing a problem. The essence of analysis is breaking down a problem into its component parts, assessing each part separately, then putting the parts back together to make a decision.
+## Conclusions
+
+The car purchase example was a warmup for the following chapter. It illustrates the difference between just sitting down and thinking about a problem and really analyzing a problem. The essence of analysis is breaking down a problem into its component parts, assessing each part separately, then putting the parts back together to make a decision.
 
 The matrix in this example forms a "picture" of a complex problem by getting it out of our head and onto paper in a logical form that enables you to consider each of the parts individually. You certainly would not want to do this type of analysis for all your everyday personal decisions or for every intelligence judgment. You may wish to do it, however, for an especially important, difficult, or controversial judgment, or when you need to leave an audit trail showing how you arrived at a judgment.
 

@@ -72,7 +72,9 @@ For a time, as the picture becomes clearer, there is no obvious contradiction; t
 
 The problem is not that there is any inherent difficulty in grasping new perceptions or new ideas, but that established perceptions are so difficult to change. People form impressions on the basis of very little information, but once formed, they do not reject or change them unless they obtain rather solid evidence. Analysts might seek to limit the adverse impact of this tendency by suspending judgment for as long as possible as new information is being received.
 
-Implications for Intelligence Analysis Comprehending the nature of perception has significant implications for understanding the nature and limitations of intelligence analysis.
+## Implications for Intelligence Analysis
+
+Comprehending the nature of perception has significant implications for understanding the nature and limitations of intelligence analysis.
 
 The circumstances under which accurate perception is most difficult are exactly the circumstances under which intelligence analysis is generally conducted--dealing with highly ambiguous situations on the basis of information that is processed incrementally under pressure for early judgment. This is a recipe for inaccurate perception. Intelligence seeks to illuminate the unknown. Almost by definition, intelligence analysis deals with highly ambiguous situations.
 

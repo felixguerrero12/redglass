@@ -72,7 +72,9 @@ For a time, as the picture becomes clearer, there is no obvious contradiction; t
 
 The problem is not that there is any inherent difficulty in grasping new perceptions or new ideas, but that established perceptions are so difficult to change. People form impressions on the basis of very little information, but once formed, they do not reject or change them unless they obtain rather solid evidence. Analysts might seek to limit the adverse impact of this tendency by suspending judgment for as long as possible as new information is being received.
 
-Implications for Intelligence Analysis Comprehending the nature of perception has significant implications for understanding the nature and limitations of intelligence analysis.
+## Implications for Intelligence Analysis
+
+Comprehending the nature of perception has significant implications for understanding the nature and limitations of intelligence analysis.
 
 The circumstances under which accurate perception is most difficult are exactly the circumstances under which intelligence analysis is generally conducted--dealing with highly ambiguous situations on the basis of information that is processed incrementally under pressure for early judgment. This is a recipe for inaccurate perception. Intelligence seeks to illuminate the unknown. Almost by definition, intelligence analysis deals with highly ambiguous situations.
 
@@ -114,7 +116,9 @@ Beliefs, assumptions, concepts, and information retrieved from memory form a min
 
 When information is lacking, analysts often have no choice but to lean heavily on prior beliefs and assumptions about how and why events normally transpire in a given country. A mind-set is neither good nor bad. It is unavoidable. It is, in essence, a distillation of all that analysts think they know about a subject. It forms a lens through which they perceive the world, and once formed, it resists change.
 
-Understanding Mental Ruts Chapter 3 on memory suggested thinking of information in memory as somehow interconnected like a massive, multidimensional spider web. It is possible to connect any point within this web to any other point. When analysts connect the same points frequently, they form a path that makes it easier to take that route in the future. Once they start thinking along certain channels, they tend to continue thinking the same way and the path may become a rut.
+## Understanding Mental Ruts
+
+Chapter 3 on memory suggested thinking of information in memory as somehow interconnected like a massive, multidimensional spider web. It is possible to connect any point within this web to any other point. When analysts connect the same points frequently, they form a path that makes it easier to take that route in the future. Once they start thinking along certain channels, they tend to continue thinking the same way and the path may become a rut.
 
 The path seems like the obvious and natural way to go. Information and concepts located near that path are readily available, so the same images keep coming up. Information not located near that path is less likely to come to mind. Talking about breaking mind-sets, or creativity, or even just openness to new information is really talking about spinning new links and new paths through the web of memory.
 
@@ -128,7 +132,9 @@ I close the door to my office--I am embarrassed to have anyone hear me talking t
 
 Scientists have learned that written language and spoken language are processed in different parts of the brain.68 They activate different neurons.
 
-Problem-Solving Exercise Before discussing how analysts can keep their minds open to new information, let us warm up to this topic with a brief exercise. Without lifting pencil from paper, draw no more than four straight lines that will cross through all nine dots in Figure 6.69
+## Problem-Solving Exercise
+
+Before discussing how analysts can keep their minds open to new information, let us warm up to this topic with a brief exercise. Without lifting pencil from paper, draw no more than four straight lines that will cross through all nine dots in Figure 6.69
 
 After trying to solve the puzzle on your own, refer to the end of this chapter for answers and further discussion. Then consider that intelligence analysis is too often limited by similar, unconscious, self-imposed constraints or "cages of the mind." You do not need to be constrained by conventional wisdom. It is often wrong. You do not necessarily need to be constrained by existing policies. They can sometimes be changed if you show a good reason for doing so.
 
@@ -136,21 +142,33 @@ You do not necessarily need to be constrained by the specific analytical require
 
 You should not hesitate to go back up the chain of command with a suggestion for doing something a little different than what was asked for.
 
-Mental Tools People use various physical tools such as a hammer and saw to enhance their capacity to perform various physical tasks. People can also use simple mental tools to enhance their ability to perform mental tasks. These tools help overcome limitations in human mental machinery for perception, memory, and inference.
+## Mental Tools
+
+People use various physical tools such as a hammer and saw to enhance their capacity to perform various physical tasks. People can also use simple mental tools to enhance their ability to perform mental tasks. These tools help overcome limitations in human mental machinery for perception, memory, and inference.
 
 The next few sections of this chapter discuss mental tools for opening analysts' minds to new ideas, while the next one (Chapter 7) deals with mental tools for structuring complex analytical problems.
 
-Questioning Assumptions It is a truism that analysts need to question their assumptions. Experience tells us that when analytical judgments turn out to be wrong, it usually was not because the information was wrong. It was because an analyst made one or more faulty assumptions that went unchallenged. The problem is that analysts cannot question everything, so where do they focus their attention? Sensitivity Analysis. One approach is to do an informal sensitivity analysis.
+## Questioning Assumptions
+
+It is a truism that analysts need to question their assumptions. Experience tells us that when analytical judgments turn out to be wrong, it usually was not because the information was wrong. It was because an analyst made one or more faulty assumptions that went unchallenged. The problem is that analysts cannot question everything, so where do they focus their attention?
+
+### Sensitivity Analysis
+
+One approach is to do an informal sensitivity analysis.
 
 How sensitive is the ultimate judgment to changes in any of the major variables or driving forces in the analysis? Those linchpin assumptions that drive the analysis are the ones that need to be questioned. Analysts should ask themselves what could happen to make any of these assumptions out of date, and how they can know this has not already happened. They should try to disprove their assumptions rather than confirm them.
 
-If an analyst cannot think of anything that would cause a change of mind, his or her mind-set may be so deeply entrenched that the analyst cannot see the conflicting evidence. One advantage of the competing hypotheses approach discussed in Chapter 8 is that it helps identify the linchpin assumptions that swing a conclusion in one direction or another. Identify Alternative Models.
+If an analyst cannot think of anything that would cause a change of mind, his or her mind-set may be so deeply entrenched that the analyst cannot see the conflicting evidence. One advantage of the competing hypotheses approach discussed in Chapter 8 is that it helps identify the linchpin assumptions that swing a conclusion in one direction or another.
+
+## Identify Alternative Models
 
 Analysts should try to identify alternative models, conceptual frameworks, or interpretations of the data by seeking out individuals who disagree with them rather than those who agree. Most people do not do that very often. It is much more comfortable to talk with people in one's own office who share the same basic mind-set. There are a few things that can be done as a matter of policy, and that have been done in some offices in the past, to help overcome this tendency.
 
 At least one Directorate of Intelligence component, for example, has had a peer review process in which none of the reviewers was from the branch that produced the report. The rationale for this was that an analyst's immediate colleagues and supervisor(s) are likely to share a common mind-set. Hence these are the individuals least likely to raise fundamental issues challenging the validity of the analysis.
 
-To avoid this mindset problem, each research report was reviewed by a committee of three analysts from other branches handling other countries or issues. None of them had specialized knowledge of the subject. They were, however, highly accomplished analysts. Precisely because they had not been immersed in the issue in question, they were better able to identify hidden assumptions and other alternatives, and to judge whether the analysis adequately supported the conclusions. Be Wary of Mirror Images.
+To avoid this mindset problem, each research report was reviewed by a committee of three analysts from other branches handling other countries or issues. None of them had specialized knowledge of the subject. They were, however, highly accomplished analysts. Precisely because they had not been immersed in the issue in question, they were better able to identify hidden assumptions and other alternatives, and to judge whether the analysis adequately supported the conclusions.
+
+## Be Wary of Mirror Images
 
 One kind of assumption an analyst should always recognize and question is mirror-imaging--filling gaps in the analyst's own knowledge by assuming that the other side is likely to act in a certain way because that is how the US would act under similar circumstances. To say, "if I were a Russian intelligence officer . . ." or "if I were running the Indian Government . . ." is mirror-imaging.
 
@@ -162,17 +180,29 @@ In 1977, for example, the Intelligence Community was faced with evidence of what
 
 Judgment must be based on how the other country perceives its national interest. If the analyst cannot gain insight into what the other country is thinking, mirror-imaging may be the only alternative, but analysts should never get caught putting much confidence in that kind of judgment.
 
-Seeing Different Perspectives Another problem area is looking at familiar data from a different perspective. If you play chess, you know you can see your own options pretty well. It is much more difficult to see all the pieces on the board as your opponent sees them, and to anticipate how your opponent will react to your move. That is the situation analysts are in when they try to see how the US Government's actions look from another country's perspective.
+## Seeing Different Perspectives
+
+Another problem area is looking at familiar data from a different perspective. If you play chess, you know you can see your own options pretty well. It is much more difficult to see all the pieces on the board as your opponent sees them, and to anticipate how your opponent will react to your move. That is the situation analysts are in when they try to see how the US Government's actions look from another country's perspective.
 
 Analysts constantly have to move back and forth, first seeing the situation from the US perspective and then from the other country's perspective. This is difficult to do, as you experienced with the picture of the old woman/young woman in Chapter 2 on perception. Several techniques for seeing alternative perspectives exploit the general principle of coming at the problem from a different direction and asking different questions.
 
-These techniques break your existing mind-set by causing you to play a different and unaccustomed role. Thinking Backwards. One technique for exploring new ground is thinking backwards. As an intellectual exercise, start with an assumption that some event you did not expect has actually occurred. Then, put yourself into the future, looking back to explain how this could have happened.
+These techniques break your existing mind-set by causing you to play a different and unaccustomed role.
+
+### Thinking Backwards
+
+One technique for exploring new ground is thinking backwards. As an intellectual exercise, start with an assumption that some event you did not expect has actually occurred. Then, put yourself into the future, looking back to explain how this could have happened.
 
 Tink what must have happened six months or a year earlier to set the stage for that outcome, what must have happened six months or a year before that to prepare the way, and so on back to the present. Thinking backwards changes the focus from whether something might happen to how it might happen. Putting yourself into the future creates a different perspective that keeps you from getting anchored in the present.
 
-Analysts will often find, to their surprise, that they can construct a quite plausible scenario for an event they had previously thought unlikely. Thinking backwards is particularly helpful for events that have a low probability but very serious consequences should they occur, such as a collapse or overthrow of the Saudi monarchy. Crystal Ball.
+Analysts will often find, to their surprise, that they can construct a quite plausible scenario for an event they had previously thought unlikely. Thinking backwards is particularly helpful for events that have a low probability but very serious consequences should they occur, such as a collapse or overthrow of the Saudi monarchy.
 
-The crystal ball approach works in much the same way as thinking backwards.72 Imagine that a "perfect" intelligence source (such as a crystal ball) has told you a certain assumption is wrong. You must then develop a scenario to explain how this could be true. If you can develop a plausible scenario, this suggests your assumption is open to some question. Role playing. Role playing is commonly used to overcome constraints and inhibitions that limit the range of one's thinking.
+### Crystal Ball
+
+The crystal ball approach works in much the same way as thinking backwards.72 Imagine that a "perfect" intelligence source (such as a crystal ball) has told you a certain assumption is wrong. You must then develop a scenario to explain how this could be true. If you can develop a plausible scenario, this suggests your assumption is open to some question.
+
+### Role playing
+
+Role playing is commonly used to overcome constraints and inhibitions that limit the range of one's thinking.
 
 Playing a role changes "where you sit." It also gives one license to think and act differently. Simply trying to imagine how another leader or country will think and react, which analysts do frequently, is not role playing. One must actually act out the role and become, in a sense, the person whose role is assumed. It is only "living" the role that breaks an analyst's normal mental set and permits him or her to relate facts and ideas to each other in ways that differ from habitual patterns.
 
@@ -180,7 +210,11 @@ An analyst cannot be expected to do this alone; some group interaction is requir
 
 The preparatory work can be avoided by starting the game with the current situation already known to analysts, rather than with a notional scenario that participants have to learn. Just one notional intelligence report is sufficient to start the action in the game. In my experience, it is possible to have a useful political game in just one day with almost no investment in preparatory work. Gaming gives no "right" answer, but it usually causes the players to see some things in a new light.
 
-Players become very conscious that "where you stand depends on where you sit." By changing roles, the participants see the problem in a different context. This frees the mind to think differently. Devil's Advocate. A devil's advocate is someone who defends a minority point of view. He or she may not necessarily agree with that view, but may choose or be assigned to represent it as strenuously as possible.
+Players become very conscious that "where you stand depends on where you sit." By changing roles, the participants see the problem in a different context. This frees the mind to think differently.
+
+### Devil's Advocate
+
+A devil's advocate is someone who defends a minority point of view. He or she may not necessarily agree with that view, but may choose or be assigned to represent it as strenuously as possible.
 
 The goal is to expose conflicting interpretations and show how alternative assumptions and images make the world look different. It often requires time, energy, and commitment to see how the world looks from a different perspective.73 Imagine that you are the boss at a US facility overseas and are worried about the possibility of a terrorist attack. A standard staff response would be to review existing measures and judge their adequacy.
 
@@ -188,13 +222,21 @@ There might well be pressure--subtle or otherwise--from those responsible for su
 
 The assignment to think like a terrorist liberates the designated person(s) to think unconventionally and be less inhibited about finding weaknesses in the system that might embarrass colleagues, because uncovering any such weaknesses is the assigned task. Devil's advocacy has a controversial history in the Intelligence Community. Suffice it to say that some competition between conflicting views is healthy and must be encouraged; all-out political battle is counterproductive.
 
-Recognizing When To Change Your Mind As a general rule, people are too slow to change an established view, as opposed to being too willing to change. The human mind is conservative. It resists change. Assumptions that worked well in the past continue to be applied to new situations long after they have become outmoded. Learning from Surprise. A study of senior managers in industry identified how some successful managers counteract this conservative bent.
+## Recognizing When To Change Your Mind
+
+As a general rule, people are too slow to change an established view, as opposed to being too willing to change. The human mind is conservative. It resists change. Assumptions that worked well in the past continue to be applied to new situations long after they have become outmoded.
+
+### Learning from Surprise
+
+A study of senior managers in industry identified how some successful managers counteract this conservative bent.
 
 They do it, according to the study, By paying attention to their feelings of surprise when a particular fact does not fit their prior understanding, and then by highlighting rather than denying the novelty. Although surprise made them feel uncomfortable, it made them take the cause [of the surprise] seriously and inquire into it. . . .
 
 Rather than deny, downplay, or ignore disconfirmation [of their prior view], successful senior managers often treat it as friendly and in a way cherish the discomfort surprise creates. As a result, these managers often perceive novel situations early on and in a frame of mind relatively undistorted by hidebound notions.74
 
-Analysts should keep a record of unexpected events and think hard about what they might mean, not disregard them or explain them away. It is important to consider whether these surprises, however small, are consistent with some alternative hypothesis. One unexpected event may be easy to disregard, but a pattern of surprises may be the first clue that your understanding of what is happening requires some adjustment, is at best incomplete, and may be quite wrong. Strategic Assumptions vs. Tactical Indicators.
+Analysts should keep a record of unexpected events and think hard about what they might mean, not disregard them or explain them away. It is important to consider whether these surprises, however small, are consistent with some alternative hypothesis. One unexpected event may be easy to disregard, but a pattern of surprises may be the first clue that your understanding of what is happening requires some adjustment, is at best incomplete, and may be quite wrong.
+
+### Strategic Assumptions vs. Tactical Indicators
 
 Abraham Ben-Zvi analyzed five cases of intelligence failure to foresee a surprise attack.75 He made a useful distinction between estimates based on strategic assumptions and estimates based on tactical indications. Examples of strategic assumptions include the US belief in 1941 that Japan wished to avoid war at all costs because it recognized US military superiority, and the Israeli belief in 1973 that the Arabs would not attack Israel until they obtained sufficient air power to secure control of the skies.
 
@@ -206,7 +248,9 @@ When discrepancies existed between tactical indicators and strategic assumptions
 
 It may indicate that a bigger surprise is on the way. Chapter 8, "Analysis of Competing Hypotheses," provides a framework for identifying surprises and weighing tactical indicators and other forms of current evidence against longstanding assumptions and beliefs.
 
-Stimulating Creative Thinking Imagination and creativity play important roles in intelligence analysis as in most other human endeavors. Intelligence judgments require the ability to imagine possible causes and outcomes of a current situation. All possible outcomes are not given. The analyst must think of them by imagining scenarios that explicate how they might come about. Similarly, imagination as well as knowledge is required to reconstruct how a problem appears from the viewpoint of a foreign government.
+## Stimulating Creative Thinking
+
+Imagination and creativity play important roles in intelligence analysis as in most other human endeavors. Intelligence judgments require the ability to imagine possible causes and outcomes of a current situation. All possible outcomes are not given. The analyst must think of them by imagining scenarios that explicate how they might come about. Similarly, imagination as well as knowledge is required to reconstruct how a problem appears from the viewpoint of a foreign government.
 
 Creativity is required to question things that have long been taken for granted. The fact that apples fall from trees was well known to everyone. Newton's creative genius was to ask "why?" Intelligence analysts, too, are expected to raise new questions that lead to the identification of previously unrecognized relationships or to possible outcomes that had not previously been foreseen.
 
@@ -246,7 +290,9 @@ Optimal results come from alternating between individual thinking and team effor
 
 There are no comparable techniques for determining which ideas are best. The procedures are, therefore, aimed at idea generation rather than idea evaluation. The same procedures do aid in evaluation, however, in the sense that ability to generate more alternatives helps one see more potential consequences, repercussions, and effects that any single idea or action might entail.
 
-Organizational Environment A new idea is not the end product of the creative process. Rather, it is the beginning of what is sometimes a long and tortuous process of translating an idea into an innovative product. The idea must be developed, evaluated, and communicated to others, and this process is influenced by the organizational setting in which it transpires. The potentially useful new idea must pass over a number of hurdles before it is embraced as an organizational product.
+## Organizational Environment
+
+A new idea is not the end product of the creative process. Rather, it is the beginning of what is sometimes a long and tortuous process of translating an idea into an innovative product. The idea must be developed, evaluated, and communicated to others, and this process is influenced by the organizational setting in which it transpires. The potentially useful new idea must pass over a number of hurdles before it is embraced as an organizational product.
 
 The following paragraphs describe in some detail research conducted by Frank Andrews to investigate the relationship among creative ability, organizational setting, and innovative research products.77 The subjects of this research were 115 scientists, each of whom had directed a research project dealing with social-psychological aspects of disease. These scientists were given standardized tests that measure creative ability and intelligence.
 
@@ -286,7 +332,9 @@ Particularly within his or her own office, an analyst needs to enjoy a sense of 
 
 It is the responsibility of an analyst's immediate supervisor and office colleagues to provide this sheltered environment.
 
-Conclusions Creativity, in the sense of new and useful ideas, is at least as important in intelligence analysis as in any other human endeavor. Procedures to enhance innovative thinking are not new. Creative thinkers have employed them successfully for centuries. The only new elements--and even they may not be new anymore--are the grounding of these procedures in psychological theory to explain how and why they work, and their formalization in systematic creativity programs.
+## Conclusions
+
+Creativity, in the sense of new and useful ideas, is at least as important in intelligence analysis as in any other human endeavor. Procedures to enhance innovative thinking are not new. Creative thinkers have employed them successfully for centuries. The only new elements--and even they may not be new anymore--are the grounding of these procedures in psychological theory to explain how and why they work, and their formalization in systematic creativity programs.
 
 Learning creative problem-solving techniques does not change an analyst's native-born talents but helps an analyst achieve his or her full potential. Most people have the ability to be more innovative than they themselves realize. The effectiveness of these procedures depends, in large measure, upon the analyst's motivation, drive, and perseverance in taking the time required for thoughtful analysis despite the pressures of day-today duties, mail, and current intelligence reporting.
 

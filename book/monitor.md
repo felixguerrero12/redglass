@@ -40,13 +40,19 @@ As Voltaire said, "Doubt is not a pleasant state, but certainty is a ridiculous 
 
 ## Chapter 14: Monitoring checklist and the ongoing monitoring of new information
 
-Ongoing Monitoring In a rapidly changing, probabilistic world, analytical conclusions are always tentative. The situation may change, or it may remain unchanged while you receive new information that alters your understanding of it. Specify things to look for that, if observed, would suggest a significant change in the probabilities. Pay particular attention to any feeling of surprise when new information does not fit your prior understanding.
+## Ongoing Monitoring
+
+In a rapidly changing, probabilistic world, analytical conclusions are always tentative. The situation may change, or it may remain unchanged while you receive new information that alters your understanding of it. Specify things to look for that, if observed, would suggest a significant change in the probabilities. Pay particular attention to any feeling of surprise when new information does not fit your prior understanding.
 
 Consider whether this surprising information is consistent with an alternative hypothesis. A surprise or two, however small, may be the first clue that your understanding of what is happening requires some adjustment, is at best incomplete, or may be quite wrong.
 
-Management of Analysis The cognitive problems described in this book have implications for the management as well as the conduct of intelligence analysis. This concluding section looks at what managers of intelligence analysis can do to help create an organizational environment in which analytical excellence flourishes. These measures fall into four general categories: research, training, exposure to alternative mind-sets, and guiding analytical products.
+## Management of Analysis
 
-Support for Research Management should support research to gain a better understanding of the cognitive processes involved in making intelligence judgments. There is a need for better understanding of the thinking skills involved in intelligence analysis, how to test job applicants for these skills, and how to train analysts to improve these skills. Analysts also need a fuller understanding of how cognitive limitations affect intelligence analysis and how to minimize their impact.
+The cognitive problems described in this book have implications for the management as well as the conduct of intelligence analysis. This concluding section looks at what managers of intelligence analysis can do to help create an organizational environment in which analytical excellence flourishes. These measures fall into four general categories: research, training, exposure to alternative mind-sets, and guiding analytical products.
+
+## Support for Research
+
+Management should support research to gain a better understanding of the cognitive processes involved in making intelligence judgments. There is a need for better understanding of the thinking skills involved in intelligence analysis, how to test job applicants for these skills, and how to train analysts to improve these skills. Analysts also need a fuller understanding of how cognitive limitations affect intelligence analysis and how to minimize their impact.
 
 They need simple tools and techniques to help protect themselves from avoidable error. There is so much research to be done that it is difficult to know where to start.
 
@@ -56,7 +62,7 @@ There should also be post-doctoral fellowships for promising scholars who could 
 
 Because these mind-sets or models serve as a "screen" or "lens" through which analysts perceive foreign developments, research to determine the nature of this "lens" may contribute as much to accurate judgments as does research focused more directly on the foreign areas themselves.156
 
-Training
+## Training
 
 Most training of intelligence analysts is focused on organizational procedures, writing style, and methodological techniques. Analysts who write clearly are assumed to be thinking clearly. Yet it is quite possible to follow a faulty analytical process and write a clear and persuasive argument in support of an erroneous judgment.
 

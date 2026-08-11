@@ -68,7 +68,9 @@ There is some evidence that awareness of the anchoring problem is not an adequat
 
 In other words, consciously avoid any prior judgment as a starting point. There is no experimental evidence to show that this is possible or that it will work, but it seems worth trying. Alternatively, it is sometimes possible to avoid human error by employing formal statistical procedures. Bayesian statistical analysis, for example, can be used to revise prior judgments on the basis of new information in a way that avoids anchoring bias.140
 
-Expression of Uncertainty Probabilities may be expressed in two ways. Statistical probabilities are based on empirical evidence concerning relative frequencies. Most intelligence judgments deal with one-of-a-kind situations for which it is impossible to assign a statistical probability. Another approach commonly used in intelligence analysis is to make a "subjective probability" or "personal probability" judgment.
+## Expression of Uncertainty
+
+Probabilities may be expressed in two ways. Statistical probabilities are based on empirical evidence concerning relative frequencies. Most intelligence judgments deal with one-of-a-kind situations for which it is impossible to assign a statistical probability. Another approach commonly used in intelligence analysis is to make a "subjective probability" or "personal probability" judgment.
 
 Such a judgment is an expression of the analyst's personal belief that a certain explanation or estimate is correct. It is comparable to a judgment that a horse has a three-to-one chance of winning a race. Verbal expressions of uncertainty--such as "possible," "probable," "unlikely," "may," and "could"--are a form of subjective probability judgment, but they have long been recognized as sources of ambiguity and misunderstanding.
 
@@ -100,7 +102,9 @@ An event for which the timing is unpredictable may "at this time" have only a 5-
 
 This may be an odds ratio (less than a onein-four chance) or a percentage range (5 to 20 percent) or (less than 20 percent). Odds ratios are often preferable, as most people have a better intuitive understanding of odds than of percentages.
 
-Assessing Probability of a Scenario Intelligence analysts sometimes present judgments in the form of a scenario--a series of events leading to an anticipated outcome. There is evidence that judgments concerning the probability of a scenario are influenced by amount and nature of detail in the scenario in a way that is unrelated to actual likelihood of the scenario. A scenario consists of several events linked together in a narrative description.
+## Assessing Probability of a Scenario
+
+Intelligence analysts sometimes present judgments in the form of a scenario--a series of events leading to an anticipated outcome. There is evidence that judgments concerning the probability of a scenario are influenced by amount and nature of detail in the scenario in a way that is unrelated to actual likelihood of the scenario. A scenario consists of several events linked together in a narrative description.
 
 To calculate mathematically the probability of a scenario, the proper procedure is to multiply the probabilities of each individual event. Thus, for a scenario with three events, each of which will probably (70 percent certainty) occur, the probability of the scenario is .70 x .70 x .70 or slightly over 34 percent. Adding a fourth probable (70 percent) event to the scenario would reduce its probability to 24 percent. Most people do not have a good intuitive grasp of probabilistic reasoning.
 
@@ -110,7 +114,9 @@ When the averaging strategy is employed, highly probable events in the scenario 
 
 If the averaging strategy is employed, additional details may be added to the scenario that are so plausible they increase the perceived probability of the scenario, while, mathematically, additional events must necessarily reduce its probability.146
 
-Base-Rate Fallacy In assessing a situation, an analyst sometimes has two kinds of evidence available--specific evidence about the individual case at hand, and numerical data that summarize information about many similar cases. This type of numerical information is called a base rate or prior probability. The base-rate fallacy is that the numerical data are commonly ignored unless they illuminate a causal relationship.
+## Base-Rate Fallacy
+
+In assessing a situation, an analyst sometimes has two kinds of evidence available--specific evidence about the individual case at hand, and numerical data that summarize information about many similar cases. This type of numerical information is called a base rate or prior probability. The base-rate fallacy is that the numerical data are commonly ignored unless they illuminate a causal relationship.
 
 This is illustrated by the following experiment.147 During the Vietnam War, a fighter plane made a non-fatal strafing attack on a US aerial reconnaissance mission at twilight. Both Cambodian and Vietnamese jets operate in the area. You know the following facts: (a) Specific case information: The US pilot identified the fighter as Cambodian. The pilot's aircraft recognition capabilities were tested under appropriate visibility and fight conditions.
 

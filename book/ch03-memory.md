@@ -20,11 +20,15 @@ The most important from the standpoint of this discussion and best documented by
 
 Memory researchers also posit the existence of an interpretive mechanism and an overall memory monitor or control mechanism that guides interaction among various elements of the memory system.
 
-Sensory Information Storage Sensory information storage holds sensory images for several tenths of a second after they are received by the sensory organs. The functioning of SIS may be observed if you close your eyes, then open and close them again as rapidly as possible. As your eyes close, notice how the visual image is maintained for a fraction of a second before fading.
+## Sensory Information Storage
+
+Sensory information storage holds sensory images for several tenths of a second after they are received by the sensory organs. The functioning of SIS may be observed if you close your eyes, then open and close them again as rapidly as possible. As your eyes close, notice how the visual image is maintained for a fraction of a second before fading.
 
 Sensory information storage explains why a movie film shot at 16 separate frames per second appears as continuous movement rather than a series of still pictures. A visual trace is generally retained in SIS for about one-quarter of a second. It is not possible to consciously extend the time that sensory information is held in SIS. The function of SIS is to make it possible for the brain to work on processing a sensory event for longer than the duration of the event itself.
 
-Short-Term Memory Information passes from SIS into short-term memory, where again it is held for only a short period of time--a few seconds or minutes. Whereas SIS holds the complete image, STM stores only the interpretation of the image. If a sentence is spoken, SIS retains the sounds, while STM holds the words formed by these sounds. Like SIS, short-term memory holds information temporarily, pending further processing.
+## Short-Term Memory
+
+Information passes from SIS into short-term memory, where again it is held for only a short period of time--a few seconds or minutes. Whereas SIS holds the complete image, STM stores only the interpretation of the image. If a sentence is spoken, SIS retains the sounds, while STM holds the words formed by these sounds. Like SIS, short-term memory holds information temporarily, pending further processing.
 
 This processing includes judgments concerning meaning, relevance, and significance, as well as the mental actions necessary to integrate selected portions of the information into long-term memory. When a person forgets immediately the name of someone to whom he or she has just been introduced, it is because the name was not transferred from short-term to long-term memory. A central characteristic of STM is the severe limitation on its capacity.
 
@@ -34,7 +38,9 @@ They can concentrate on remembering or interpreting or taking notes on informati
 
 But while rehearsing some items to retain them in STM, people cannot simultaneously add new items. The severe limitation on the amount of information retainable in STM at any one time is physiological, and there is no way to overcome it. This is an important point that will be discussed below in connection with working memory and the utility of external memory aids.
 
-Long-Term Memory Some information retained in STM is processed into long-term memory. This information on past experiences is filed away in the recesses of the mind and must be retrieved before it can be used. In contrast to the immediate recall of current experience from STM, retrieval of information from LTM is indirect and sometimes laborious.
+## Long-Term Memory
+
+Some information retained in STM is processed into long-term memory. This information on past experiences is filed away in the recesses of the mind and must be retrieved before it can be used. In contrast to the immediate recall of current experience from STM, retrieval of information from LTM is indirect and sometimes laborious.
 
 Loss of detail as sensory stimuli are interpreted and passed from SIS into STM and then into LTM is the basis for the phenomenon of selective perception discussed in the previous chapter. It imposes limits on subsequent stages of analysis, inasmuch as the lost data can never be retrieved. People can never take their mind back to what was actually there in sensory information storage or short-term memory. They can only retrieve their interpretation of what they thought was there as stored in LTM.
 
@@ -44,7 +50,9 @@ Some mental process must determine what information is passed from SIS into STM 
 
 To explain the operation of the total memory system, psychologists posit the existence of an interpretive mechanism that operates on the data base and a monitor or central control mechanism that guides and oversees the operation of the whole system. Little is known of these mechanisms and how they relate to other mental processes. Despite much research on memory, little agreement exists on many critical points. What is presented here is probably the lowest common denominator on which most researchers would agree.
 
-Organization of Information in Long-Term Memory. Physically, the brain consists of roughly 10 billion neurons, each analogous to a computer chip capable of storing information. Each neuron has octopuslike arms called axons and dendrites. Electrical impulses fow through these arms and are ferried by neurotransmitting chemicals across what is called the synaptic gap between neurons. Memories are stored as patterns of connections between neurons.
+## Organization of Information in Long-Term Memory
+
+Physically, the brain consists of roughly 10 billion neurons, each analogous to a computer chip capable of storing information. Each neuron has octopuslike arms called axons and dendrites. Electrical impulses fow through these arms and are ferried by neurotransmitting chemicals across what is called the synaptic gap between neurons. Memories are stored as patterns of connections between neurons.
 
 When two neurons are activated, the connections or "synapses" between them are strengthened. As you read this chapter, the experience actually causes physical changes in your brain. "In a matter of seconds, new circuits are formed that can change forever the way you think about the world."31 Memory records a lifetime of experience and thoughts.
 
@@ -108,7 +116,9 @@ Or you might imagine a story concerning one or more meals that include all these
 
 They work by providing a simple, artificial structure to which the information to be learned is then linked. The mnemonic device supplies the mental "file categories" that ensure retrievability of information. To remember, first recall the mnemonic device, then access the desired information.
 
-Memory and Intelligence Analysis An analyst's memory provides continuous input into the analytical process. This input is of two types--additional factual information on historical background and context, and schemata the analyst uses to determine the meaning of newly acquired information. Information from memory may force itself on the analyst's awareness without any deliberate effort by the analyst to remember; or, recall of the information may require considerable time and strain.
+## Memory and Intelligence Analysis
+
+An analyst's memory provides continuous input into the analytical process. This input is of two types--additional factual information on historical background and context, and schemata the analyst uses to determine the meaning of newly acquired information. Information from memory may force itself on the analyst's awareness without any deliberate effort by the analyst to remember; or, recall of the information may require considerable time and strain.
 
 In either case, anything that influences what information is remembered or retrieved from memory also influences intelligence analysis.
 
@@ -116,7 +126,9 @@ Judgment is the joint product of the available information and what the analyst 
 
 Substantive knowledge and analytical experience determine the store of memories and schemata the analyst draws upon to generate and evaluate hypotheses. The key is not a simple ability to recall facts, but the ability to recall patterns that relate facts to each other and to broader concepts--and to employ procedures that facilitate this process.
 
-Stretching the Limits of Working Memory Limited information is available on what is commonly thought of as "working memory"--the collection of information that an analyst holds in the forefront of the mind as he or she does analysis. The general concept of working memory seems clear from personal introspection.
+## Stretching the Limits of Working Memory
+
+Limited information is available on what is commonly thought of as "working memory"--the collection of information that an analyst holds in the forefront of the mind as he or she does analysis. The general concept of working memory seems clear from personal introspection.
 
 In writing this chapter, I am very conscious of the constraints on my ability to keep many pieces of information in mind while experimenting with ways to organize this information and seeking words to express my thoughts. To help offset these limits on my working memory, I have accumulated a large number of written notes containing ideas and half-written paragraphs. Only by using such external memory aids am I able to cope with the volume and complexity of the information I want to use.
 
@@ -128,23 +140,33 @@ Chapter 7, "Structuring Analytical Problems," discusses ways of doing this. They
 
 The model defines the categories for filing information in memory and retrieving it on demand. In other words, it serves as a mnemonic device that provides the hooks on which to hang information so that it can be found when needed. The model is initially an artificial construct, like the previously noted acronym "HOMES." With usage, however, it rapidly becomes an integral part of one's conceptual structure--the set of schemata used in processing information.
 
-At this point, remembering new information occurs by assimilation rather than by mnemonics. This enhances the ability to recall and make inferences from a larger volume of information in a greater variety of ways than would otherwise be possible. "Hardening of the Categories". Memory processes tend to work with generalized categories. If people do not have an appropriate category for something, they are unlikely to perceive it, store it in memory, or be able to retrieve it from memory later.
+At this point, remembering new information occurs by assimilation rather than by mnemonics. This enhances the ability to recall and make inferences from a larger volume of information in a greater variety of ways than would otherwise be possible.
+
+## "Hardening of the Categories"
+
+Memory processes tend to work with generalized categories. If people do not have an appropriate category for something, they are unlikely to perceive it, store it in memory, or be able to retrieve it from memory later.
 
 If categories are drawn incorrectly, people are likely to perceive and remember things inaccurately. When information about phenomena that are different in important respects nonetheless gets stored in memory under a single concept, errors of analysis may result. For example, many observers of international affairs had the impression that Communism was a monolithic movement, that it was the same everywhere and controlled from Moscow.
 
 All Communist countries were grouped together in a single, undifferentiated category called "international Communism" or "the Communist bloc." In 1948, this led many in the United States to downplay the importance of the Stalin-Tito split.
 
-According to one authority, it "may help explain why many Western minds, including scholars, remained relatively blind to the existence and significance of Sino-Soviet differences long after they had been made manifest in the realm of ideological formulae."36 "Hardening of the categories" is a common analytical weakness. Fine distinctions among categories and tolerance for ambiguity contribute to more effective analysis. Things That Influence What Is Remembered.
+According to one authority, it "may help explain why many Western minds, including scholars, remained relatively blind to the existence and significance of Sino-Soviet differences long after they had been made manifest in the realm of ideological formulae."36 "Hardening of the categories" is a common analytical weakness. Fine distinctions among categories and tolerance for ambiguity contribute to more effective analysis.
+
+## Things That Influence What Is Remembered
 
 Factors that influence how information is stored in memory and that affect future retrievability include: being the first-stored information on a given topic, the amount of attention focused on the information, the credibility of the information, and the importance attributed to the information at the moment of storage. By influencing the content of memory, all of these factors also influence the outcome of intelligence analysis.
 
-Chapter 12 on "Biases in Estimating Probabilities" describes how availability in memory influences judgments of probability. The more instances a person can recall of a phenomenon, the more probable that phenomenon seems to be. This is true even though ability to recall past examples is influenced by vividness of the information, how recently something occurred, its impact upon one's personal welfare, and many other factors unrelated to the actual probability of the phenomenon. Memory Rarely Changes Retroactively.
+Chapter 12 on "Biases in Estimating Probabilities" describes how availability in memory influences judgments of probability. The more instances a person can recall of a phenomenon, the more probable that phenomenon seems to be. This is true even though ability to recall past examples is influenced by vividness of the information, how recently something occurred, its impact upon one's personal welfare, and many other factors unrelated to the actual probability of the phenomenon.
+
+## Memory Rarely Changes Retroactively
 
 Analysts often receive new information that should, logically, cause them to reevaluate the credibility or significance of previous information. Ideally, the earlier information should then become either more salient and readily available in memory, or less so. But it does not work that way. Unfortunately, memories are seldom reassessed or reorganized retroactively in response to new information.
 
 For example, information that is dismissed as unimportant or irrelevant because it did not fit an analyst's expectations does not become more memorable even if the analyst changes his or her thinking to the point where the same information, received today, would be recognized as very significant.
 
-Memory Can Handicap as Well as Help Understanding how memory works provides some insight into the nature of creativity, openness to new information, and breaking mindsets. All involve spinning new links in the spider web of memory--links among facts, concepts, and schemata that previously were not connected or only weakly connected.
+## Memory Can Handicap as Well as Help
+
+Understanding how memory works provides some insight into the nature of creativity, openness to new information, and breaking mindsets. All involve spinning new links in the spider web of memory--links among facts, concepts, and schemata that previously were not connected or only weakly connected.
 
 Training courses for intelligence analysts sometimes focus on trying to open up an analyst's established mind-set, to get him or her to see problems from different perspectives in order to give a fairer shake to alternative explanations. More often than not, the reaction of experienced analysts is that they have devoted 20 years to developing their present mind-set, that it has served them well, and that they see no need to change it.
 
