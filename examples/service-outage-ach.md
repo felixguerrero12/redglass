@@ -94,7 +94,7 @@ analysis_state:
     total_agent_steps: 11
   routing_notes: |
     next_agent: monitor
-    heuer_lines: ["920-926", "1403-1406"]
+    heuer_lines: ["book/monitor.md"]
     default_next: idle
     consult: []
 ```
@@ -111,15 +111,14 @@ Example mid-graph `routing_notes`:
 
 ```yaml
 next_agent: evaluator
-heuer_lines: ["837-949"]
+heuer_lines: ["book/evaluator.md"]
 default_next: bias-guard
 consult: [open-mind]
 instruction: >
   Open agents/evaluator.md.
   Work minuses. E1 is likely non-diagnostic.
-  If stuck, read only 837-949.
+  If stuck, open only book/evaluator.md.
 ```
-
 ## Why this example is effective
 
 1. H1 was not crowned because of time correlation alone (`E1` consistent with all).

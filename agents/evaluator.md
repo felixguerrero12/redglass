@@ -3,7 +3,7 @@ id: evaluator
 description: Fill the ACH matrix. Score diagnosticity. Work the minuses.
 checklist_step: Evaluate hypotheses
 load_when: Confirming favorite; ignore minuses
-heuer_lines: ["837-949"]
+heuer_lines: ["book/evaluator.md"]
 version: 0.3.0
 model_class: intelligence_thinker
 model_examples: Sonnet thinking, Fable, Opus
@@ -39,7 +39,7 @@ Full table: [../guides/model-fit.md](../guides/model-fit.md).
 1. Open [../references/ach-template.md](../references/ach-template.md).
 2. Fill `analysis_state.matrix` (or the template) with every evidence × hyp cell.
 3. Run [../references/matrix-completeness.md](../references/matrix-completeness.md) before you leave.
-4. If stuck, read only Heuer lines `837-949` from `~/psychology-of-intelligence.md`.
+4. If stuck, open only [../book/evaluator.md](../book/evaluator.md).
 5. Append one `investigation_log` hop when verify passes.
 
 ## Best practices

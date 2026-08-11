@@ -14,8 +14,8 @@ See [../STYLE.md](../STYLE.md).
 5. Optional host setup: pick model classes from [model-fit.md](model-fit.md).
 6. When you edit an agent file, follow [agents-md-guidance.md](agents-md-guidance.md).
 7. Open the shared state schema in [../references/analysis-state.md](../references/analysis-state.md).
-8. Keep the Heuer book file outside the prompt. Use line ranges only.
-9. Default book path: `~/psychology-of-intelligence.md`.
+8. Keep Heuer text out of the prompt until needed. Open only named files under `book/` (see [../references/source.md](../references/source.md)). Never load all of `book/`.
+9. Primary book path: section files under `book/`. Optional legacy monolith: `~/psychology-of-intelligence.md` (not the primary Read path).
 10. Skim [../examples/service-outage-ach.md](../examples/service-outage-ach.md) once if this is your first full-graph run.
 11. Skim [../examples/skip-loop-intake.md](../examples/skip-loop-intake.md) once if this is your first skip or loop decision.
 
@@ -51,7 +51,7 @@ See [../STYLE.md](../STYLE.md).
 4. Load the matching file under [../agents/](../agents/).
 5. Do only that agent job.
 6. Write only the fields that agent owns.
-7. If stuck, read only the handed `heuer_lines` from the book. Never other chapters.
+7. If stuck, open only the handed `heuer_lines` section files under `book/`. Never other chapters.
 8. When verify passes, append one `investigation_log` entry.
 9. Then hand off. Orchestrator refuses handoff if the prior hop has no log entry.
 10. A `consult` agent is a short helper pass. Log it as its own hop.

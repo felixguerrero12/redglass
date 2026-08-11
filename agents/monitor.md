@@ -3,7 +3,7 @@ id: monitor
 description: Pre-specify milestones. Treat surprise as a signal to reopen.
 checklist_step: Ongoing monitoring
 load_when: Surprise / change mind
-heuer_lines: ["920-926", "1403-1406"]
+heuer_lines: ["book/monitor.md"]
 version: 0.3.0
 model_class: gate_fast
 model_examples: Haiku, Composer 2.5, Sonnet
@@ -35,7 +35,7 @@ Full table: [../guides/model-fit.md](../guides/model-fit.md).
 
 1. Write concrete `milestones` into `analysis_state`.
 2. State the surprise protocol (re-enter evaluator or learner).
-3. If stuck, read only Heuer lines `920-926` and `1403-1406`.
+3. If stuck, open only [../book/monitor.md](../book/monitor.md).
 4. Append one `investigation_log` hop when verify passes.
 5. If a thorough-investigation trigger appears, raise via orchestrator. See [../references/thorough-investigation.md](../references/thorough-investigation.md).
 

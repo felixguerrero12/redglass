@@ -53,7 +53,7 @@ Write project prose in simple technical English. See [STYLE.md](STYLE.md).
 | [references/thorough-investigation.md](references/thorough-investigation.md) | Where full investigation is required; mid-run raise triggers |
 | [examples/smoke-fizz-exits-ach.md](examples/smoke-fizz-exits-ach.md) | Live smoke: fizz strategies + exit protection |
 | [examples/investigation-log-auth-pr.md](examples/investigation-log-auth-pr.md) | Backfilled log from auth-PR resmoke |
-| Book path | `~/psychology-of-intelligence.md` (never load whole file) |
+| Book path | `book/` section files via [references/source.md](references/source.md) (never load all of `book/`) |
 
 ## When to use
 
@@ -79,17 +79,17 @@ Intake owns this decision. Summary:
 
 ## Checklist → agent
 
-| Checklist step | Load when | Agent | Heuer lines |
+| Checklist step | Load when | Agent | Heuer section |
 |---|---|---|---|
-| Define the problem | Wrong question / scope fight | [problem-framer](agents/problem-framer.md) | 1362–1377, 779–836 |
-| Generate hypotheses | Only one story feels obvious | [hypothesis-generator](agents/hypothesis-generator.md) | 434–569, 837–860 |
-| Collect information | Tempted to pile confirming data | [collector](agents/collector.md) | 570–656, 1383–1387 |
-| Evaluate hypotheses | Confirming favorite; ignore minuses | [evaluator](agents/evaluator.md) | 837–949 |
-| Select most likely | Need odds + rejected hyps | [selector-reporter](agents/selector-reporter.md) | 900–920, 1397–1402 |
-| Ongoing monitoring | Surprise / change mind | [monitor](agents/monitor.md) | 920–926, 1403–1406 |
-| Bias / evidence traps | Vivid anecdote, gaps, "no evidence" | [bias-guard](agents/bias-guard.md) | 970–1050 |
-| Open mind / mind-set | Mirror-imaging, stuck model | [open-mind](agents/open-mind.md) | 283–361, 657–778 |
-| Postmortem / learn | Missed call, hindsight | [learner-postmortem](agents/learner-postmortem.md) | 1285–1361 |
+| Define the problem | Wrong question / scope fight | [problem-framer](agents/problem-framer.md) | [book/problem-framer.md](book/problem-framer.md) |
+| Generate hypotheses | Only one story feels obvious | [hypothesis-generator](agents/hypothesis-generator.md) | [book/hypothesis-generator.md](book/hypothesis-generator.md) |
+| Collect information | Tempted to pile confirming data | [collector](agents/collector.md) | [book/collector.md](book/collector.md) |
+| Evaluate hypotheses | Confirming favorite; ignore minuses | [evaluator](agents/evaluator.md) | [book/evaluator.md](book/evaluator.md) |
+| Select most likely | Need odds + rejected hyps | [selector-reporter](agents/selector-reporter.md) | [book/selector-reporter.md](book/selector-reporter.md) |
+| Ongoing monitoring | Surprise / change mind | [monitor](agents/monitor.md) | [book/monitor.md](book/monitor.md) |
+| Bias / evidence traps | Vivid anecdote, gaps, "no evidence" | [bias-guard](agents/bias-guard.md) | [book/bias-guard.md](book/bias-guard.md) |
+| Open mind / mind-set | Mirror-imaging, stuck model | [open-mind](agents/open-mind.md) | [book/open-mind.md](book/open-mind.md) |
+| Postmortem / learn | Missed call, hindsight | [learner-postmortem](agents/learner-postmortem.md) | [book/learner-postmortem.md](book/learner-postmortem.md) |
 
 Routing helpers: [intake](agents/intake.md), [orchestrator](agents/orchestrator.md), [skeptical-reviewer](agents/skeptical-reviewer.md).
 

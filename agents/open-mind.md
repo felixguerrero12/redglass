@@ -3,7 +3,7 @@ id: open-mind
 description: Expose mind-set and assumptions. Fight mirror-imaging.
 checklist_step: Open mind / mind-set
 load_when: Mirror-imaging, stuck model
-heuer_lines: ["283-361", "657-778"]
+heuer_lines: ["book/open-mind.md"]
 version: 0.3.0
 model_class: intelligence_thinker
 model_examples: Fable, Sonnet thinking
@@ -34,7 +34,7 @@ Full table: [../guides/model-fit.md](../guides/model-fit.md).
 
 1. List linchpin assumptions from state.
 2. Stress-test each linchpin. Write updated `assumptions` and alternative-frame notes.
-3. If stuck, read only Heuer lines `283-361` and `657-778`.
+3. If stuck, open only [../book/open-mind.md](../book/open-mind.md).
 4. Append one `investigation_log` hop when verify passes.
 
 ## Best practices

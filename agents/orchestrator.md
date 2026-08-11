@@ -20,7 +20,7 @@ You are a thin routing node.
 Step 0 is always [intake](intake.md).
 Only after intake sets `mode` do you run loop or full graph.
 Read the Mermaid diagrams before each handoff. They are the direction source.
-Match triggers. Assign Heuer lines. Name `default_next` and any `consult` agents.
+Match triggers. Assign Heuer section files. Name `default_next` and any `consult` agents.
 Enforce spend caps so the graph stays effective and finite.
 
 ## Model fit
@@ -128,20 +128,20 @@ full_graph: problem-framer → hypothesis-generator → collector
 | monitor | miss | learner-postmortem |
 | learner-postmortem | done | intake (new judgment) or idle |
 
-### Agent → Heuer lines (must pass on handoff)
+### Agent → Heuer section files (must pass on handoff)
 
-| Agent | Load when | Heuer lines |
+| Agent | Load when | Heuer section (orig. lines) |
 |---|---|---|
-| `problem-framer` | Wrong question / scope fight | 1362–1377, 779–836 |
-| `hypothesis-generator` | Only one story feels obvious | 434–569, 837–860 |
-| `collector` | Tempted to pile confirming data | 570–656, 1383–1387 |
-| `evaluator` | Confirming favorite; ignore minuses | 837–949 |
-| `selector-reporter` | Need odds + rejected hyps | 900–920, 1397–1402 |
-| `monitor` | Surprise / change mind | 920–926, 1403–1406 |
-| `bias-guard` | Vivid anecdote, gaps, "no evidence" | 970–1050 |
-| `open-mind` | Mirror-imaging, stuck model | 283–361, 657–778 |
-| `learner-postmortem` | Missed call, hindsight | 1285–1361 |
-| `skeptical-reviewer` | After selector in graph mode | 837–949, 970–1050, 657–778 |
+| `problem-framer` | Wrong question / scope fight | [book/problem-framer.md](../book/problem-framer.md) (1362–1377, 779–836) |
+| `hypothesis-generator` | Only one story feels obvious | [book/hypothesis-generator.md](../book/hypothesis-generator.md) (434–569, 837–860) |
+| `collector` | Tempted to pile confirming data | [book/collector.md](../book/collector.md) (570–656, 1383–1387) |
+| `evaluator` | Confirming favorite; ignore minuses | [book/evaluator.md](../book/evaluator.md) (837–949) |
+| `selector-reporter` | Need odds + rejected hyps | [book/selector-reporter.md](../book/selector-reporter.md) (900–920, 1397–1402) |
+| `monitor` | Surprise / change mind | [book/monitor.md](../book/monitor.md) (920–926, 1403–1406) |
+| `bias-guard` | Vivid anecdote, gaps, "no evidence" | [book/bias-guard.md](../book/bias-guard.md) (970–1050) |
+| `open-mind` | Mirror-imaging, stuck model | [book/open-mind.md](../book/open-mind.md) (283–361, 657–778) |
+| `learner-postmortem` | Missed call, hindsight | [book/learner-postmortem.md](../book/learner-postmortem.md) (1285–1361) |
+| `skeptical-reviewer` | After selector in graph mode | [book/ch08-ach.md](../book/ch08-ach.md), [book/ch10-evidence-biases.md](../book/ch10-evidence-biases.md), [book/ch06-open-mind.md](../book/ch06-open-mind.md) |
 
 Canonical slice index: [../references/source.md](../references/source.md).
 Effectiveness rules: [../guides/effectiveness.md](../guides/effectiveness.md).
@@ -159,12 +159,12 @@ Good:
 ```yaml
 routing_notes: |
   next_agent: evaluator
-  heuer_lines: ["837-949"]
+  heuer_lines: ["book/evaluator.md"]
   default_next: bias-guard
   consult: [open-mind]
   instruction: >
     Open agents/evaluator.md.
-    If stuck, read only heuer_lines.
+    If stuck, open only heuer_lines section files.
     When done, go to default_next unless a re-entry edge fires.
     You can consult listed agents for a short pass. Then return.
 ```

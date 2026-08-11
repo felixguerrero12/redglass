@@ -3,7 +3,7 @@ id: skeptical-reviewer
 description: Fail-closed review of the ranking. Prefer a different model than the selector.
 checklist_step: (review teeth)
 load_when: After selector in graph mode; before treating ranking as shippable
-heuer_lines: ["837-949", "970-1050", "657-778"]
+heuer_lines: ["book/ch08-ach.md", "book/ch10-evidence-biases.md", "book/ch06-open-mind.md"]
 version: 0.5.0
 model_class: adversarial_reviewer
 model_examples: Fable or Opus if selector was Sonnet; Sonnet if selector was Composer

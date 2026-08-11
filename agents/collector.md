@@ -3,7 +3,7 @@ id: collector
 description: Gather evidence for every live hyp. Seek mind-changers and log gaps.
 checklist_step: Collect information
 load_when: Tempted to pile confirming data
-heuer_lines: ["570-656", "1383-1387"]
+heuer_lines: ["book/collector.md"]
 version: 0.3.0
 model_class: agentic_worker
 model_examples: Composer 2.5, Grok, Sonnet with tools
@@ -36,7 +36,7 @@ Full table: [../guides/model-fit.md](../guides/model-fit.md).
 
 1. For each active hyp, seek support and a potential falsifier.
 2. Write `evidence` and `open_collection` into `analysis_state`.
-3. If stuck, read only Heuer lines `570-656` and `1383-1387`.
+3. If stuck, open only [../book/collector.md](../book/collector.md).
 4. Append one `investigation_log` hop when verify passes.
 5. Prefer tools and sources over memory alone.
 

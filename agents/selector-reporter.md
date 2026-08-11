@@ -3,7 +3,7 @@ id: selector-reporter
 description: Rank hyps with odds and reject receipts. Do not skip the reviewer in graph mode.
 checklist_step: Select most likely
 load_when: Need odds + rejected hyps
-heuer_lines: ["900-920", "1397-1402"]
+heuer_lines: ["book/selector-reporter.md"]
 version: 0.3.0
 model_class: balanced_mid
 model_examples: Sonnet, Grok; Fable if high stakes
@@ -37,7 +37,7 @@ Full table: [../guides/model-fit.md](../guides/model-fit.md).
 1. Run [../references/matrix-completeness.md](../references/matrix-completeness.md) before ranking.
 2. If any cell is missing, stop. Re-enter `evaluator`.
 3. Write `ranking`, `rejected_receipts`, and draft `milestones`.
-4. If stuck, read only Heuer lines `900-920` and `1397-1402`.
+4. If stuck, open only [../book/selector-reporter.md](../book/selector-reporter.md).
 5. Append one `investigation_log` hop when verify passes.
 
 ## Best practices

@@ -3,7 +3,7 @@ id: problem-framer
 description: Frame the real question. Externalize scope and assumptions.
 checklist_step: Define the problem
 load_when: Wrong question / scope fight
-heuer_lines: ["1362-1377", "779-836"]
+heuer_lines: ["book/problem-framer.md"]
 version: 0.3.0
 model_class: intelligence_thinker
 model_examples: Sonnet thinking, Fable
@@ -36,7 +36,7 @@ Full table: [../guides/model-fit.md](../guides/model-fit.md).
 ## Tools / checks
 
 1. Write `problem` and initial `assumptions` into `analysis_state`.
-2. If stuck, read only Heuer lines `1362-1377` and `779-836`.
+2. If stuck, open only [../book/problem-framer.md](../book/problem-framer.md).
 3. Append one `investigation_log` hop when verify passes.
 4. Do not start hyps until `problem` is in state.
 

@@ -3,7 +3,7 @@ id: learner-postmortem
 description: Fair process postmortem. Write durable lessons without hindsight bias.
 checklist_step: Postmortem / learn
 load_when: Missed call, hindsight
-heuer_lines: ["1285-1361"]
+heuer_lines: ["book/learner-postmortem.md"]
 version: 0.3.0
 model_class: intelligence_thinker
 model_examples: Sonnet thinking, Fable
@@ -35,7 +35,7 @@ Full table: [../guides/model-fit.md](../guides/model-fit.md).
 
 1. Review process with the data that existed then (not the outcome alone).
 2. Append `rejected_receipts`, `lessons`, and skill-patch notes.
-3. If stuck, read only Heuer lines `1285-1361`.
+3. If stuck, open only [../book/learner-postmortem.md](../book/learner-postmortem.md).
 4. Append one `investigation_log` hop when verify passes.
 5. Name which node failed (framer, collector, bias, mind-set, or other).
 

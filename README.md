@@ -128,7 +128,7 @@ flowchart LR
 1. Read [SKILL.md](SKILL.md).
 2. Read [guides/how-to-use.md](guides/how-to-use.md).
 3. Run [agents/intake.md](agents/intake.md) first.
-4. Place the Heuer text at `~/psychology-of-intelligence.md` (or note your path).
+4. Open Heuer only via `book/` section files ([references/source.md](references/source.md)); never load all of `book/`.
 5. If `mode: full_graph`, follow [diagrams/analysis-agent-graph.mmd](diagrams/analysis-agent-graph.mmd).
 6. If `mode: loop`, pick one agent from [diagrams/checklist-router.mmd](diagrams/checklist-router.mmd).
 7. Keep shared facts in the `analysis_state` schema.

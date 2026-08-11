@@ -3,7 +3,7 @@ id: hypothesis-generator
 description: Produce a full competing hyp set. Keep unproven hyps alive.
 checklist_step: Generate hypotheses
 load_when: Only one story feels "obvious"
-heuer_lines: ["434-569", "837-860"]
+heuer_lines: ["book/hypothesis-generator.md"]
 version: 0.3.0
 model_class: intelligence_thinker
 model_examples: Sonnet thinking, Fable, Grok high
@@ -34,7 +34,7 @@ Full table: [../guides/model-fit.md](../guides/model-fit.md).
 ## Tools / checks
 
 1. Write `hypotheses` into `analysis_state` with status `active` or `deferred`.
-2. If stuck, read only Heuer lines `434-569` and `837-860`.
+2. If stuck, open only [../book/hypothesis-generator.md](../book/hypothesis-generator.md).
 3. Append one `investigation_log` hop when verify passes.
 4. Close generation before evaluation starts.
 

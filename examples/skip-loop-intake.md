@@ -125,7 +125,7 @@ investigation_log:
     routing_notes: {next_agent: open-mind, default_next: idle, consult: []}
   - hop: 2
     agent: open-mind
-    heuer_lines: ["283-361", "657-778"]
+    heuer_lines: ["book/open-mind.md"]
     reason: "Mirror-imaging / frame check only."
     state_writes: [assumptions, alternative_frame_notes]
     verify_stop: passed

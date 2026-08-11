@@ -3,7 +3,7 @@ id: bias-guard
 description: Audit evidence weight. Catch vividness, absence, and reliability traps.
 checklist_step: Bias / evidence traps
 load_when: Vivid anecdote, gaps, "no evidence"
-heuer_lines: ["970-1050"]
+heuer_lines: ["book/bias-guard.md"]
 version: 0.3.0
 model_class: balanced_mid
 model_examples: Sonnet, Grok
@@ -34,7 +34,7 @@ Full table: [../guides/model-fit.md](../guides/model-fit.md).
 
 1. Pass over `evidence` and `matrix` for vividness, absence, consistency, reliability, sticky impressions.
 2. Write reliability notes, confidence adjustments, and flags into state.
-3. If stuck, read only Heuer lines `970-1050`.
+3. If stuck, open only [../book/bias-guard.md](../book/bias-guard.md).
 4. Append one `investigation_log` hop when verify passes.
 
 ## Best practices

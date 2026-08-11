@@ -23,8 +23,7 @@ This repo ships an **agent-agnostic skill** for judgment under incomplete eviden
 | `hosts/` | Optional typed-hop compile from `agents/*.md` |
 | `research/` | Background maps (not runtime) |
 
-Never commit or paste the full Heuer book. Local path: `~/psychology-of-intelligence.md`.
-Line ranges only: `references/source.md`.
+Never commit or paste a full Heuer monolith into prompts. Primary path: section files under `book/` (index in `references/source.md`). Never load all of `book/`. Optional legacy monolith: `~/psychology-of-intelligence.md`.
 
 ## HOW
 

@@ -10,7 +10,7 @@ Write in simple technical English. See [../STYLE.md](../STYLE.md).
 ```yaml
 - hop: 1
   agent: problem-framer
-  heuer_lines: ["1362-1377", "779-836"]
+  heuer_lines: ["book/problem-framer.md"]
   reason: "Wrong question / scope risk on merge decision."
   actions:
     - "Wrote problem statement."
@@ -22,7 +22,7 @@ Write in simple technical English. See [../STYLE.md](../STYLE.md).
     - "Is a private security channel in use?"
   routing_notes:
     next_agent: hypothesis-generator
-    heuer_lines: ["434-569", "837-860"]
+    heuer_lines: ["book/hypothesis-generator.md"]
     default_next: collector
     consult: []
 ```
@@ -33,7 +33,7 @@ Write in simple technical English. See [../STYLE.md](../STYLE.md).
 |---|---|
 | `hop` | Integer. Start at 1. Increase by 1 each specialty hop (including consult). |
 | `agent` | Id of the agent that just finished. |
-| `heuer_lines` | Lines handed to that agent. |
+| `heuer_lines` | `book/` section files handed to that agent. |
 | `reason` | Why this agent ran (trigger or graph edge). One or two sentences. |
 | `actions` | What the agent did. Bullet facts. No chat filler. |
 | `state_writes` | Fields this hop changed. |

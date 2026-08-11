@@ -1,6 +1,6 @@
 # Install this skill (any agent)
 
-This skill is **agent-agnostic**. Install means: put the files where your host can read them, point the host at `SKILL.md`, and keep the Heuer book **outside** the repo.
+This skill is **agent-agnostic**. Install means: put the files where your host can read them, point the host at `SKILL.md`, and open only named Heuer section files under `book/` (never the whole tree).
 
 ## What you need
 
@@ -9,14 +9,14 @@ This skill is **agent-agnostic**. Install means: put the files where your host c
 | This repo | Clone or copy `redglass` |
 | Entry file | [../SKILL.md](../SKILL.md) |
 | Run guide | [how-to-use.md](how-to-use.md) |
-| Heuer book (local) | `~/psychology-of-intelligence.md` (or your path). **Never** commit or paste the full book |
+| Heuer book | Ships in [`../book/`](../book/) (section files). **Never** load all of `book/`. Optional legacy monolith: `~/psychology-of-intelligence.md` |
 
 ## Universal steps (every host)
 
 1. Clone or copy this repository to a stable path.
 2. Tell the agent to load **`SKILL.md` first**, then follow **`guides/how-to-use.md`**.
 3. Require **intake first** (`agents/intake.md`) before any specialty agent.
-4. Point Heuer line reads at your local book path. Use ranges from [../references/source.md](../references/source.md) only.
+4. Point Heuer reads at section files under `book/` per [../references/source.md](../references/source.md). Never load all of `book/`.
 5. Optional: map models with [model-fit.md](model-fit.md).
 6. Optional host compile: [../hosts/README.md](../hosts/README.md) (typed hops from markdown).
 
