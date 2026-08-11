@@ -1,0 +1,17 @@
+%% ACH evidence × hypothesis coordination
+%% Edge labels: C consistent · I inconsistent · N neutral · ? unknown
+%% Prefer working inconsistencies (I) when ranking
+flowchart LR
+  P[Problem] --> H1[H1]
+  P --> H2[H2]
+  P --> Hd[H-deception]
+  E1[E1] -->|C/I/N/?| H1
+  E1 -->|C/I/N/?| H2
+  E1 -->|C/I/N/?| Hd
+  E2[E2] -->|C/I/N/?| H1
+  E2 -->|C/I/N/?| H2
+  E2 -->|C/I/N/?| Hd
+  H1 --> Rank[Least-refuted ranking]
+  H2 --> Rank
+  Hd --> Rank
+  Rank --> Report[Odds + rejects + milestones]

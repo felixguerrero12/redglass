@@ -1,0 +1,6 @@
+.worktrees/
+*.swp
+.DS_Store
+__pycache__/
+.env
+logs/

@@ -1,0 +1,12 @@
+%% Checklist trigger → agent router
+%% Load the agent when the trigger matches; orchestrator may fan-out multiple
+flowchart LR
+  T1["Wrong question / scope"] --> A1[problem-framer]
+  T2["One obvious story"] --> A2[hypothesis-generator]
+  T3["Confirming-data pile"] --> A3[collector]
+  T4["Ignoring minuses"] --> A4[evaluator]
+  T5["Need odds + rejects"] --> A5[selector-reporter]
+  T6["Surprise / change mind"] --> A6[monitor]
+  T7["Vivid / gaps / no evidence"] --> A7[bias-guard]
+  T8["Mirror-imaging / stuck"] --> A8[open-mind]
+  T9["Miss / hindsight"] --> A9[learner-postmortem]

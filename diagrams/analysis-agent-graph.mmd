@@ -1,0 +1,24 @@
+%% Analysis specialty graph (redglass)
+%% Nodes = agents; edges = handoffs over shared analysis_state
+%% Intake is always first (step 0). Orchestrator enforces intake, then routes.
+flowchart TD
+  START([new request]) --> IN{intake}
+  IN -->|skip| IDLE[idle / other skill]
+  IN -->|loop| LOOP[one specialty via checklist-router]
+  IN -->|full_graph| PF[problem-framer]
+  PF --> HG[hypothesis-generator]
+  HG --> COL[collector]
+  COL --> EV[evaluator]
+  EV --> BG[bias-guard]
+  BG --> OM[open-mind]
+  OM --> SEL[selector-reporter]
+  SEL --> REV{skeptical-reviewer}
+  REV -->|pass| MON[monitor]
+  REV -->|fail / gaps| EV
+  REV -->|wrong question| PF
+  MON -->|surprise| EV
+  MON -->|miss| LEARN[learner-postmortem]
+  LEARN --> IN
+  ORCH[[orchestrator]] -.-> IN
+  ORCH -.-> PF
+  ORCH -.-> LOOP

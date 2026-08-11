@@ -1,0 +1,37 @@
+%% Modes and loops (redglass)
+%% Canonical overview: intake first, then skip | loop | full_graph + mid-run raise
+flowchart TD
+  START([new request]) --> IN{intake<br/>Screen A + B<br/>REQUIRED}
+
+  IN -->|not analysis| SKIP[skip]
+  SKIP --> IDLE[idle / other skill]
+
+  IN -->|analysis · 0 signals| LOOP[loop<br/>one specialty]
+  LOOP --> SPEC[specialty via<br/>checklist-router]
+  SPEC --> DONE1([done or return])
+
+  IN -->|analysis · 1+ signals| FG[full_graph]
+  FG --> PF[problem-framer]
+  PF --> HG[hypothesis-generator]
+  HG --> COL[collector]
+  COL --> EV[evaluator]
+  EV --> BG[bias-guard]
+  BG --> OM[open-mind]
+  OM --> SEL[selector-reporter]
+  SEL --> REV{skeptical-reviewer}
+
+  REV -->|pass| MON[monitor]
+  REV -->|fail / gaps| EV
+  REV -->|wrong question| PF
+
+  MON -->|surprise| EV
+  MON -->|miss| LEARN[learner-postmortem]
+  MON -->|stable| IDLE2([idle])
+  LEARN --> IN
+
+  LOOP -.->|thorough trigger<br/>mid-run| RAISE[raise mode]
+  RAISE --> FG
+
+  ORCH[[orchestrator<br/>routes + caps + log gate]] -.-> IN
+  ORCH -.-> FG
+  ORCH -.-> LOOP
