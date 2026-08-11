@@ -1,108 +1,21 @@
 # Foreword (Douglas MacEachin)
-Source: Richards J. Heuer, Jr., Psychology of Intelligence Analysis (CSI/CIA, 1999).
+
+Source: Richards J. Heuer, Jr., *Psychology of Intelligence Analysis* (CSI/CIA, 1999).
 PDF: https://www.cia.gov/resources/csi/static/Pyschology-of-Intelligence-Analysis.pdf
 Section: foreword
 
 Do not load other book sections unless the router names them.
 
-Foreword
-                              By Douglas MacEachin1
+## Foreword
 
-      My first exposure to Dick Heuer's work was about 18 years ago, and
-I have never forgotten the strong impression it made on me then. That
-was at about the midpoint in my own career as an intelligence analyst.
-After another decade and a half of experience, and the opportunity during the last few years to study many historical cases with the benefit of
-archival materials from the former USSR and Warsaw Pact regimes, reading Heuer's latest presentation has had even more resonance.
-      I know from first-hand encounters that many CIA officers tend to
-react skeptically to treatises on analytic epistemology. This is understandable. Too often, such treatises end up prescribing models as answers to the
-problem. These models seem to have little practical value to intelligence
-analysis, which takes place not in a seminar but rather in a fast-breaking
-world of policy. But that is not the main problem Heuer is addressing.
-      What Heuer examines so clearly and effectively is how the human
-thought process builds its own models through which we process information. This is not a phenomenon unique to intelligence; as Heuer's
-research demonstrates, it is part of the natural functioning of the human
-cognitive process, and it has been demonstrated across a broad range of
-fields ranging from medicine to stock market analysis.
-      The process of analysis itself reinforces this natural function of the
-human brain. Analysis usually involves creating models, even though
-they may not be labeled as such. We set forth certain understandings and
-expectations about cause-and-effect relationships and then process and
-interpret information through these models or filters.
-      The discussion in Chapter 5 on the limits to the value of additional
-information deserves special attention, in my view--particularly for an
+By Douglas MacEachin1
 
+My first exposure to Dick Heuer's work was about 18 years ago, and I have never forgotten the strong impression it made on me then. That was at about the midpoint in my own career as an intelligence analyst. After another decade and a half of experience, and the opportunity during the last few years to study many historical cases with the benefit of archival materials from the former USSR and Warsaw Pact regimes, reading Heuer's latest presentation has had even more resonance.
 
-1. Douglas MacEachin is a former CIA Deputy Director of Intelligence. After 32 years with the
-Agency, he retired in 1997 and became a Senior Fellow at Harvard University's John F. Kennedy
-School of Government.
+I know from first-hand encounters that many CIA officers tend to react skeptically to treatises on analytic epistemology. This is understandable. Too often, such treatises end up prescribing models as answers to the problem. These models seem to have little practical value to intelligence analysis, which takes place not in a seminar but rather in a fast-breaking world of policy. But that is not the main problem Heuer is addressing.
 
+What Heuer examines so clearly and effectively is how the human thought process builds its own models through which we process information. This is not a phenomenon unique to intelligence; as Heuer's research demonstrates, it is part of the natural functioning of the human cognitive process, and it has been demonstrated across a broad range of fields ranging from medicine to stock market analysis. The process of analysis itself reinforces this natural function of the human brain.
 
-                                             ix
+Analysis usually involves creating models, even though they may not be labeled as such. We set forth certain understandings and expectations about cause-and-effect relationships and then process and interpret information through these models or filters. The discussion in Chapter 5 on the limits to the value of additional information deserves special attention, in my view--particularly for an
 
-intelligence organization. What it illustrates is that too often, newly acquired information is evaluated and processed through the existing analytic model, rather than being used to reassess the premises of the model
-itself. The detrimental effects of this natural human tendency stem from
-the raison d'etre of an organization created to acquire special, critical information available only through covert means, and to produce analysis
-integrating this special information with the total knowledge base.
-      I doubt that any veteran intelligence officer will be able to read this
-book without recalling cases in which the mental processes described by
-Heuer have had an adverse impact on the quality of analysis. How many
-times have we encountered situations in which completely plausible
-premises, based on solid expertise, have been used to construct a logically
-valid forecast--with virtually unanimous agreement--that turned out
-to be dead wrong? In how many of these instances have we determined,
-with hindsight, that the problem was not in the logic but in the fact
-that one of the premises--however plausible it seemed at the time--was
-incorrect? In how many of these instances have we been forced to admit
-that the erroneous premise was not empirically based but rather a conclusion developed from its own model (sometimes called an assumption)?
-And in how many cases was it determined after the fact that information
-had been available which should have provided a basis for questioning
-one or more premises, and that a change of the relevant premise(s) would
-have changed the analytic model and pointed to a different outcome?
-      The commonly prescribed remedy for shortcomings in intelligence
-analysis and estimates--most vociferously after intelligence "failures"--is
-a major increase in expertise. Heuer's research and the studies he cites
-pose a serious challenge to that conventional wisdom. The data show that
-expertise itself is no protection from the common analytic pitfalls that
-are endemic to the human thought process. This point has been demonstrated in many fields beside intelligence analysis.
-      A review of notorious intelligence failures demonstrates that the analytic traps caught the experts as much as anybody. Indeed, the data show
-that when experts fall victim to these traps, the effects can be aggravated
-by the confidence that attaches to expertise--both in their own view and
-in the perception of others.
-      These observations should in no way be construed as a denigration
-of the value of expertise. On the contrary, my own 30-plus years in the
-business of intelligence analysis biased me in favor of the view that, endless
-
-
-                                     x
-
- warnings of information overload notwithstanding, there is no such
-thing as too much information or expertise. And my own observations
-of CIA analysts sitting at the same table with publicly renowned experts
-have given me great confidence that attacks on the expertise issue are
-grossly misplaced. The main difference is that one group gets to promote
-its reputations in journals, while the other works in a closed environment
-in which the main readers are members of the intelligence world's most
-challenging audience--the policymaking community.
-      The message that comes through in Heuer's presentation is that information and expertise are a necessary but not sufficient means of making intelligence analysis the special product that it needs to be. A comparable effort has to be devoted to the science of analysis. This effort has to
-start with a clear understanding of the inherent strengths and weaknesses
-of the primary analytic mechanism--the human mind--and the way it
-processes information.
-      I believe there is a significant cultural element in how intelligence
-analysts define themselves: Are we substantive experts employed by CIA,
-or are we professional analysts and intelligence officers whose expertise
-lies in our ability to adapt quickly to diverse issues and problems and
-analyze them effectively? In the world at large, substantive expertise is far
-more abundant than expertise on analytic science and the human mental
-processing of information. Dick Heuer makes clear that the pitfalls the human mental process sets for analysts cannot be eliminated; they are part of
-us. What can be done is to train people how to look for and recognize these
-mental obstacles, and how to develop procedures designed to offset them.
-      Given the centrality of analytic science for the intelligence mission,
-a key question that Heuer's book poses is: Compared with other areas of
-our business, have we committed a commensurate effort to the study of
-analytic science as a professional requirement? How do the effort and resource commitments in this area compare to, for example, the effort and
-commitment to the development of analysts' writing skills?
-      Heuer's book does not pretend to be the last word on this issue.
-Hopefully, it will be a stimulant for much more work.
-
-
-                                     xi
+1. Douglas MacEachin is a former CIA Deputy Director of Intelligence. After 32 years with the Agency, he retired in 1997 and became a Senior Fellow at Harvard University's John F. Kennedy School of Government. intelligence organization. What it illustrates is that too often, newly acquired information is evaluated and processed through the existing analytic model, rather than being used to reassess the premises of the model itself. The detrimental effects of this natural human tendency stem from the raison d'etre of an organization created to acquire special, critical information available only through covert means, and to produce analysis integrating this special information with the total knowledge base. I doubt that any veteran intelligence officer will be able to read this book without recalling cases in which the mental processes described by Heuer have had an adverse impact on the quality of analysis. How many times have we encountered situations in which completely plausible premises, based on solid expertise, have been used to construct a logically valid forecast--with virtually unanimous agreement--that turned out to be dead wrong? In how many of these instances have we determined, with hindsight, that the problem was not in the logic but in the fact that one of the premises--however plausible it seemed at the time--was incorrect? In how many of these instances have we been forced to admit that the erroneous premise was not empirically based but rather a conclusion developed from its own model (sometimes called an assumption)? And in how many cases was it determined after the fact that information had been available which should have provided a basis for questioning one or more premises, and that a change of the relevant premise(s) would have changed the analytic model and pointed to a different outcome? The commonly prescribed remedy for shortcomings in intelligence analysis and estimates--most vociferously after intelligence "failures"--is a major increase in expertise. Heuer's research and the studies he cites pose a serious challenge to that conventional wisdom. The data show that expertise itself is no protection from the common analytic pitfalls that are endemic to the human thought process. This point has been demonstrated in many fields beside intelligence analysis. A review of notorious intelligence failures demonstrates that the analytic traps caught the experts as much as anybody. Indeed, the data show that when experts fall victim to these traps, the effects can be aggravated by the confidence that attaches to expertise--both in their own view and in the perception of others. These observations should in no way be construed as a denigration of the value of expertise. On the contrary, my own 30-plus years in the business of intelligence analysis biased me in favor of the view that, endless x warnings of information overload notwithstanding, there is no such thing as too much information or expertise. And my own observations of CIA analysts sitting at the same table with publicly renowned experts have given me great confidence that attacks on the expertise issue are grossly misplaced. The main difference is that one group gets to promote its reputations in journals, while the other works in a closed environment in which the main readers are members of the intelligence world's most challenging audience--the policymaking community. The message that comes through in Heuer's presentation is that information and expertise are a necessary but not sufficient means of making intelligence analysis the special product that it needs to be. A comparable effort has to be devoted to the science of analysis. This effort has to start with a clear understanding of the inherent strengths and weaknesses of the primary analytic mechanism--the human mind--and the way it processes information. I believe there is a significant cultural element in how intelligence analysts define themselves: Are we substantive experts employed by CIA, or are we professional analysts and intelligence officers whose expertise lies in our ability to adapt quickly to diverse issues and problems and analyze them effectively? In the world at large, substantive expertise is far more abundant than expertise on analytic science and the human mental processing of information. Dick Heuer makes clear that the pitfalls the human mental process sets for analysts cannot be eliminated; they are part of us. What can be done is to train people how to look for and recognize these mental obstacles, and how to develop procedures designed to offset them. Given the centrality of analytic science for the intelligence mission, a key question that Heuer's book poses is: Compared with other areas of our business, have we committed a commensurate effort to the study of analytic science as a professional requirement? How do the effort and resource commitments in this area compare to, for example, the effort and commitment to the development of analysts' writing skills? Heuer's book does not pretend to be the last word on this issue. Hopefully, it will be a stimulant for much more work.

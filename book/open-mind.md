@@ -1,972 +1,359 @@
 # Open Mind (Ch 2 + Ch 6)
-Source: Richards J. Heuer, Jr., Psychology of Intelligence Analysis (CSI/CIA, 1999).
+
+Source: Richards J. Heuer, Jr., *Psychology of Intelligence Analysis* (CSI/CIA, 1999).
 PDF: https://www.cia.gov/resources/csi/static/Pyschology-of-Intelligence-Analysis.pdf
 Section: open-mind
 
 Do not load other book sections unless the router names them.
 
-## Chapter 2: Perception
+## Chapter 2: Perception: Why Can't We See What Is There To Be Seen?
 
-Chapter 2
-                   Perception: Why Can't We See
-                    What Is There To Be Seen?
-      The process of perception links people to their environment and is critical to accurate understanding of the world about us. Accurate intelligence
-analysis obviously requires accurate perception. Yet research into human perception demonstrates that the process is beset by many pitfalls. Moreover, the
-circumstances under which intelligence analysis is conducted are precisely the
-circumstances in which accurate perception tends to be most difficult. This
-chapter discusses perception in general, then applies this information to illuminate some of the difficulties of intelligence analysis.19
-                     *******************
-     People tend to think of perception as a passive process. We see, hear,
-smell, taste or feel stimuli that impinge upon our senses. We think that
-if we are at all objective, we record what is actually there. Yet perception is demonstrably an active rather than a passive process; it constructs
-rather than records "reality." Perception implies understanding as well
-as awareness. It is a process of inference in which people construct their
-own version of reality on the basis of information provided through the
-five senses.
-     As already noted, what people in general and analysts in particular
-perceive, and how readily they perceive it, are strongly influenced by
-their past experience, education, cultural values, and role requirements,
-as well as by the stimuli recorded by their receptor organs.
-     Many experiments have been conducted to show the extraordinary
-extent to which the information obtained by an observer depends upon
-the observer's own assumptions and preconceptions. For example, when
+The process of perception links people to their environment and is critical to accurate understanding of the world about us. Accurate intelligence analysis obviously requires accurate perception. Yet research into human perception demonstrates that the process is beset by many pitfalls. Moreover, the circumstances under which intelligence analysis is conducted are precisely the circumstances in which accurate perception tends to be most difficult.
 
-19. An earlier version of this article was published as part of "Cognitive Factors in Deception
-and Counterdeception," in Donald C. Daniel and Katherine L. Herbig, eds., Strategic Military
-Deception (Pergamon Press, 1982).
+This chapter discusses perception in general, then applies this information to illuminate some of the difficulties of intelligence analysis.19
 
+People tend to think of perception as a passive process. We see, hear, smell, taste or feel stimuli that impinge upon our senses. We think that if we are at all objective, we record what is actually there. Yet perception is demonstrably an active rather than a passive process; it constructs rather than records "reality." Perception implies understanding as well as awareness.
 
-                                               7
+It is a process of inference in which people construct their own version of reality on the basis of information provided through the five senses. As already noted, what people in general and analysts in particular perceive, and how readily they perceive it, are strongly influenced by their past experience, education, cultural values, and role requirements, as well as by the stimuli recorded by their receptor organs.
 
-you looked at Figure 1 above, what did you see? Now refer to the footnote for a description of what is actually there.20 Did you perceive Figure
-1 correctly? If so, you have exceptional powers of observation, were lucky,
-or have seen the figure before. This simple experiment demonstrates one
-of the most fundamental principles concerning perception:
+Many experiments have been conducted to show the extraordinary extent to which the information obtained by an observer depends upon the observer's own assumptions and preconceptions. For example, when you looked at Figure 1 above, what did you see? Now refer to the footnote for a description of what is actually there.20 Did you perceive Figure 1 correctly? If so, you have exceptional powers of observation, were lucky, or have seen the figure before.
 
-      We tend to perceive what we expect to perceive.
+This simple experiment demonstrates one of the most fundamental principles concerning perception: We tend to perceive what we expect to perceive.
 
-     A corollary of this principle is that it takes more information, and
-more unambiguous information, to recognize an unexpected phenomenon than an expected one.
-     One classic experiment to demonstrate the influence of expectations on perception used playing cards, some of which were gimmicked
-so the spades were red and the hearts black. Pictures of the cards were
-fashed briefy on a screen and, needless to say, the test subjects identified
-the normal cards more quickly and accurately than the anomalous ones.
-After test subjects became aware of the existence of red spades and black
-hearts, their performance with the gimmicked cards improved but still
-did not approach the speed or accuracy with which normal cards could
-be identified.21
+A corollary of this principle is that it takes more information, and more unambiguous information, to recognize an unexpected phenomenon than an expected one. One classic experiment to demonstrate the influence of expectations on perception used playing cards, some of which were gimmicked so the spades were red and the hearts black. Pictures of the cards were flashed briefly on a screen and, needless to say, the test subjects identified the normal cards more quickly and accurately than the anomalous ones.
 
-20. The article is written twice in each of the three phrases. This is commonly overlooked
-because perception is influenced by our expectations about how these familiar phrases are
-normally written.
-21. Jerome S. Bruner and Leo Postman, "On the Perception of Incongruity: A Paradigm," in
-Jerome S. Bruner and David Kraut, eds., Perception and Personality: A Symposium (New York:
-Greenwood Press, 1968).
+After test subjects became aware of the existence of red spades and black hearts, their performance with the gimmicked cards improved but still did not approach the speed or accuracy with which normal cards could be identified.21
 
+This experiment shows that patterns of expectation become so deeply embedded that they continue to influence perceptions even when people are alerted to and try to take account of the existence of data that do not fit their preconceptions. Trying to be objective does not ensure accurate perception. The position of the test subject identifying playing cards is analogous to that of the intelligence analyst or government leader trying to make sense of the paper flow that crosses his or her desk.
 
-                                             8
+What is actually perceived in that paper flow, as well as how it is interpreted, depends in part, at least, on the analyst's patterns of expectation. Analysts do not just have expectations about the color of hearts and spades. They have a set of assumptions and expectations about the motivations of people and the processes of government in foreign countries.
 
-     This experiment shows that patterns of expectation become so
-deeply embedded that they continue to influence perceptions even when
-people are alerted to and try to take account of the existence of data that
-do not fit their preconceptions. Trying to be objective does not ensure
-accurate perception.
-     The position of the test subject identifying playing cards is analogous to that of the intelligence analyst or government leader trying to
-make sense of the paper fow that crosses his or her desk. What is actually
-perceived in that paper fow, as well as how it is interpreted, depends in
-part, at least, on the analyst's patterns of expectation. Analysts do not
-just have expectations about the color of hearts and spades. They have
-a set of assumptions and expectations about the motivations of people
-and the processes of government in foreign countries. Events consistent
-with these expectations are perceived and processed easily, while events
-that contradict prevailing expectations tend to be ignored or distorted in
-perception. Of course, this distortion is a subconscious or pre-conscious
-process, as illustrated by how you presumably ignored the extra words in
-the triangles in Figure 1.
-     This tendency of people to perceive what they expect to perceive is
-more important than any tendency to perceive what they want to perceive. In fact, there may be no real tendency toward wishful thinking.
-The commonly cited evidence supporting the claim that people tend to
-perceive what they want to perceive can generally be explained equally
-well by the expectancy thesis.22
-     Expectations have many diverse sources, including past experience,
-professional training, and cultural and organizational norms. All these
-influences predispose analysts to pay particular attention to certain kinds
-of information and to organize and interpret this information in certain
-ways. Perception is also influenced by the context in which it occurs.
-Different circumstances evoke different sets of expectations. People are
-more attuned to hearing footsteps behind them when walking in an alley
-at night than along a city street in daytime, and the meaning attributed
-to the sound of footsteps will vary under these difering circumstances. A
-military intelligence analyst may be similarly tuned to perceive indicators
-of potential confict.
+Events consistent with these expectations are perceived and processed easily, while events that contradict prevailing expectations tend to be ignored or distorted in perception. Of course, this distortion is a subconscious or pre-conscious process, as illustrated by how you presumably ignored the extra words in the triangles in Figure 1. This tendency of people to perceive what they expect to perceive is more important than any tendency to perceive what they want to perceive.
 
-22. For discussion of the ambiguous evidence concerning the impact of desires and fears on
-judgment, see Robert Jervis, Perception and Misperception in International Politics (Princeton,
-NJ: Princeton University Press, 1976), Chapter 10.
+In fact, there may be no real tendency toward wishful thinking. The commonly cited evidence supporting the claim that people tend to perceive what they want to perceive can generally be explained equally well by the expectancy thesis.22 Expectations have many diverse sources, including past experience, professional training, and cultural and organizational norms.
 
+All these influences predispose analysts to pay particular attention to certain kinds of information and to organize and interpret this information in certain ways. Perception is also influenced by the context in which it occurs. Different circumstances evoke different sets of expectations. People are more attuned to hearing footsteps behind them when walking in an alley at night than along a city street in daytime, and the meaning attributed to the sound of footsteps will vary under these differing circumstances.
 
-                                                9
+A military intelligence analyst may be similarly tuned to perceive indicators of potential conflict.
 
-     Patterns of expectations tell analysts, subconsciously, what to look
-for, what is important, and how to interpret what is seen. These patterns form a mind-set that predisposes analysts to think in certain ways.
-A mind-set is akin to a screen or lens through which one perceives the
-world.
-     There is a tendency to think of a mind-set as something bad, to be
-avoided. According to this line of argument, one should have an open
-mind and be influenced only by the facts rather than by preconceived notions! That is an unreachable ideal. There is no such thing as "the facts of
-the case." There is only a very selective subset of the overall mass of data
-to which one has been subjected that one takes as facts and judges to be
-relevant to the question at issue.
-     Actually, mind-sets are neither good nor bad; they are unavoidable.
-People have no conceivable way of coping with the volume of stimuli
-that impinge upon their senses, or with the volume and complexity of
-the data they have to analyze, without some kind of simplifying preconceptions about what to expect, what is important, and what is related to
-what. "There is a grain of truth in the otherwise pernicious maxim that
-an open mind is an empty mind."23 Analysts do not achieve objective
-analysis by avoiding preconceptions; that would be ignorance or self-delusion. Objectivity is achieved by making basic assumptions and reasoning as explicit as possible so that they can be challenged by others and
-analysts can, themselves, examine their validity.
-     One of the most important characteristics of mind-sets is:
+Patterns of expectations tell analysts, subconsciously, what to look for, what is important, and how to interpret what is seen. These patterns form a mind-set that predisposes analysts to think in certain ways. A mind-set is akin to a screen or lens through which one perceives the world. There is a tendency to think of a mind-set as something bad, to be avoided. According to this line of argument, one should have an open mind and be influenced only by the facts rather than by preconceived notions!
 
-      Mind-sets tend to be quick to form but resistant to change.
+That is an unreachable ideal. There is no such thing as "the facts of the case." There is only a very selective subset of the overall mass of data to which one has been subjected that one takes as facts and judges to be relevant to the question at issue. Actually, mind-sets are neither good nor bad; they are unavoidable.
 
-    Figure 2 illustrates this principle by showing part of a longer series
-of progressively modifed drawings that change almost imperceptibly
-from a man into a woman.24 The right-hand drawing in the top row,
-when viewed alone, has equal chances of being perceived as a man or a
-woman. When test subjects are shown the entire series of drawings one
-by one, their perception of this intermediate drawing is biased according
-to which end of the series they started from. Test subjects who start by
-viewing a picture that is clearly a man are biased in favor of continuing
+People have no conceivable way of coping with the volume of stimuli that impinge upon their senses, or with the volume and complexity of the data they have to analyze, without some kind of simplifying preconceptions about what to expect, what is important, and what is related to what. "There is a grain of truth in the otherwise pernicious maxim that an open mind is an empty mind."23 Analysts do not achieve objective analysis by avoiding preconceptions; that would be ignorance or self-delusion.
 
-23. Richard Betts, "Analysis, War and Decision: Why Intelligence Failures are Inevitable", World
-Politics, Vol. XXXI (October 1978), p. 84.
-24. Drawings devised by Gerald Fisher in 1967.
+Objectivity is achieved by making basic assumptions and reasoning as explicit as possible so that they can be challenged by others and analysts can, themselves, examine their validity. One of the most important characteristics of mind-sets is: Mind-sets tend to be quick to form but resistant to change.
 
+Figure 2 illustrates this principle by showing part of a longer series of progressively modified drawings that change almost imperceptibly from a man into a woman.24 The right-hand drawing in the top row, when viewed alone, has equal chances of being perceived as a man or a woman. When test subjects are shown the entire series of drawings one by one, their perception of this intermediate drawing is biased according to which end of the series they started from.
 
-                                              10
+Test subjects who start by viewing a picture that is clearly a man are biased in favor of continuing to see a man long after an "objective observer" (for example, an observer who has seen only a single picture) recognizes that the man is now a woman. Similarly, test subjects who start at the woman end of the series are biased in favor of continuing to see a woman.
 
-to see a man long after an "objective observer" (for example, an observer
-who has seen only a single picture) recognizes that the man is now a
-woman. Similarly, test subjects who start at the woman end of the series
-are biased in favor of continuing to see a woman. Once an observer has
-formed an image--that is, once he or she has developed a mind-set or
-expectation concerning the phenomenon being observed--this conditions future perceptions of that phenomenon.
-     This is the basis for another general principle of perception:
+Once an observer has formed an image--that is, once he or she has developed a mind-set or expectation concerning the phenomenon being observed--this conditions future perceptions of that phenomenon. This is the basis for another general principle of perception: New information is assimilated to existing images.
 
-    New information is assimilated to existing images.
+This principle explains why gradual, evolutionary change often goes unnoticed. It also explains the phenomenon that an intelligence analyst assigned to work on a topic or country for the first time may generate accurate insights that have been overlooked by experienced analysts who have worked on the same problem for 10 years. A fresh perspective is sometimes useful; past experience can handicap as well as aid analysis.
 
-     This principle explains why gradual, evolutionary change often goes
-unnoticed. It also explains the phenomenon that an intelligence analyst
-assigned to work on a topic or country for the first time may generate
-accurate insights that have been overlooked by experienced analysts who
-have worked on the same problem for 10 years. A fresh perspective is
-sometimes useful; past experience can handicap as well as aid analysis.
-This tendency to assimilate new data into pre-existing images is greater
-"the more ambiguous the information, the more confident the actor is of
+This tendency to assimilate new data into pre-existing images is greater "the more ambiguous the information, the more confident the actor is of the validity of his image, and the greater his commitment to the established view."25 The drawing in Figure 3 provides the reader an opportunity to test for him or herself the persistence of established images.26 Look at Figure 3. What do you see--an old woman or a young woman?
 
+Now look again to see if you can visually and mentally reorganize the data to form a different image--that of a young woman if your original perception was of an old woman, or of the old woman if you first perceived the young one. If necessary, look at the footnote for clues to help you identify the other image.27 Again, this exercise illustrates the principle that mind-sets are quick to form but resistant to change.
 
-                                   11
+When you have seen Figure 3 from both perspectives, try shifting back and forth from one perspective to the other. Do you notice some initial difficulty in making this switch? One of the more difficult mental feats is to take a familiar body of data and reorganize it visually or mentally to perceive it from a different perspective. Yet this is what intelligence analysts are constantly required to do.
 
-the validity of his image, and the greater his commitment to the established view."25
-     The drawing in Figure 3 provides the reader an opportunity to test
-for him or herself the persistence of established images.26 Look at Figure
-3. What do you see--an old woman or a young woman? Now look again
-to see if you can visually and mentally reorganize the data to form a different image--that of a young woman if your original perception was of
-an old woman, or of the old woman if you first perceived the young one.
-If necessary, look at the footnote for clues to help you identify the other
+In order to understand international interactions, analysts must understand the situation as it appears to each of the opposing forces, and constantly shift back and forth from one perspective to the other as they try to fathom how each side interprets an ongoing series of interactions. Trying to perceive an adversary's interpretations of international events, as well as US interpretations of those same events, is comparable to seeing both the old and young woman in Figure 3.
 
+Once events have been perceived one way, there is a natural resistance to other perspectives. A related point concerns the impact of substandard conditions of perception. The basic principle is: Initial exposure to blurred or ambiguous stimuli interferes with accurate perception even after more and better information becomes available.
 
-25. Jervis, p. 195.
-26. This picture was originally published in Puck magazine in 1915 as a cartoon entitled "My
-Wife and My Mother-in-Law."
+This effect has been demonstrated experimentally by projecting onto a screen pictures of common, everyday subjects such as a dog standing on grass, a fire hydrant, and an aerial view of a highway cloverleaf intersection.28 The initial projection was blurred in varying degrees, and the pictures were then brought into focus slowly to determine at what point test subjects could identify them correctly. This experiment showed two things.
 
+First, those who started viewing the pictures when they were most out of focus had more difficulty identifying them when they became clearer than those who started viewing at a less blurred stage. In other words, the greater the initial blur, the clearer the picture had to be before people could recognize it. Second, the longer people were exposed to a blurred picture, the clearer the picture had to be before they could recognize it.
 
-                                             12
+What happened in this experiment is what presumably happens in real life; despite ambiguous stimuli, people form some sort of tentative hypothesis about what they see. The longer they are exposed to this blurred image, the greater confidence they develop in this initial and perhaps erroneous impression, so the greater the impact this initial impression has on subsequent perceptions.
 
-image.27 Again, this exercise illustrates the principle that mind-sets are
-quick to form but resistant to change.
-      When you have seen Figure 3 from both perspectives, try shifting
-back and forth from one perspective to the other. Do you notice some
-initial difficulty in making this switch? One of the more difficult mental feats is to take a familiar body of data and reorganize it visually or
-mentally to perceive it from a different perspective. Yet this is what intelligence analysts are constantly required to do. In order to understand
-international interactions, analysts must understand the situation as it
-appears to each of the opposing forces, and constantly shift back and
-forth from one perspective to the other as they try to fathom how each
-side interprets an ongoing series of interactions. Trying to perceive an
-adversary's interpretations of international events, as well as US interpretations of those same events, is comparable to seeing both the old and
-young woman in Figure 3. Once events have been perceived one way,
-there is a natural resistance to other perspectives.
-      A related point concerns the impact of substandard conditions of
-perception. The basic principle is:
+For a time, as the picture becomes clearer, there is no obvious contradiction; the new data are assimilated into the previous image, and the initial interpretation is maintained until the contradiction becomes so obvious that it forces itself upon our consciousness. The early but incorrect impression tends to persist because the amount of information necessary to invalidate a hypothesis is considerably greater than the amount of information required to make an initial interpretation.
 
-      Initial exposure to blurred or ambiguous stimuli interferes with
-      accurate perception even after more and better information becomes available.
+The problem is not that there is any inherent difficulty in grasping new perceptions or new ideas, but that established perceptions are so difficult to change. People form impressions on the basis of very little information, but once formed, they do not reject or change them unless they obtain rather solid evidence. Analysts might seek to limit the adverse impact of this tendency by suspending judgment for as long as possible as new information is being received.
 
-      This effect has been demonstrated experimentally by projecting onto
-a screen pictures of common, everyday subjects such as a dog standing
-on grass, a fire hydrant, and an aerial view of a highway cloverleaf intersection.28 The initial projection was blurred in varying degrees, and the
-pictures were then brought into focus slowly to determine at what point
-test subjects could identify them correctly.
-      This experiment showed two things. First, those who started viewing the pictures when they were most out of focus had more difficulty
-identifying them when they became clearer than those who started viewand
+Implications for Intelligence Analysis Comprehending the nature of perception has significant implications for understanding the nature and limitations of intelligence analysis.
 
+The circumstances under which accurate perception is most difficult are exactly the circumstances under which intelligence analysis is generally conducted--dealing with highly ambiguous situations on the basis of information that is processed incrementally under pressure for early judgment. This is a recipe for inaccurate perception. Intelligence seeks to illuminate the unknown. Almost by definition, intelligence analysis deals with highly ambiguous situations.
 
-27. The old woman's nose, mouth, and eye are, respectively, the young woman's chin, necklace,
- ear. The old woman is seen in profile looking left. The young woman is also looking left,
-but we see her mainly from behind so most facial features are not visible. Her eyelash, nose, and
-the curve of her cheek may be seen just above the old woman's nose.
-28. Jerome S. Bruner and Mary C. Potter, "Interference in Visual Recognition," Science, Vol.
-144 (1964), pp. 424-25.
+As previously noted, the greater the ambiguity of the stimuli, the greater the impact of expectations and pre-existing images on the perception of that stimuli. Thus, despite maximum striving for objectivity, the intelligence analyst's own preconceptions are likely to exert a greater impact on the analytical product than in other fields where an analyst is working with less ambiguous and less discordant information.
 
+Moreover, the intelligence analyst is among the first to look at new problems at an early stage when the evidence is very fuzzy indeed. The analyst then follows a problem as additional increments of evidence are received and the picture gradually clarifies--as happened with test subjects in the experiment demonstrating that initial exposure to blurred stimuli interferes with accurate perception even after more and better information becomes available.
 
-                                              13
+If the results of this experiment can be generalized to apply to intelligence analysts, the experiment suggests that an analyst who starts observing a potential problem situation at an early and unclear stage is at a disadvantage as compared with others, such as policymakers, whose first exposure may come at a later stage when more and better information is available. The receipt of information in small increments over time also facilitates assimilation of this information into the analyst's existing views.
 
-ing at a less blurred stage. In other words, the greater the initial blur, the
-clearer the picture had to be before people could recognize it. Second, the
-longer people were exposed to a blurred picture, the clearer the picture
-had to be before they could recognize it.
-      What happened in this experiment is what presumably happens
-in real life; despite ambiguous stimuli, people form some sort of tentative hypothesis about what they see. The longer they are exposed to this
-blurred image, the greater confidence they develop in this initial and perhaps erroneous impression, so the greater the impact this initial impression has on subsequent perceptions. For a time, as the picture becomes
-clearer, there is no obvious contradiction; the new data are assimilated
-into the previous image, and the initial interpretation is maintained until
-the contradiction becomes so obvious that it forces itself upon our consciousness.
-      The early but incorrect impression tends to persist because the
-amount of information necessary to invalidate a hypothesis is considerably greater than the amount of information required to make an initial
-interpretation. The problem is not that there is any inherent difficulty in
-grasping new perceptions or new ideas, but that established perceptions
-are so difficult to change. People form impressions on the basis of very
-little information, but once formed, they do not reject or change them
-unless they obtain rather solid evidence. Analysts might seek to limit the
-adverse impact of this tendency by suspending judgment for as long as
-possible as new information is being received.
+No one item of information may be sufficient to prompt the analyst to change a previous view. The cumulative message inherent in many pieces of information may be significant but is attenuated when this information is not examined as a whole. The Intelligence Community's review of its performance before the 1973 Arab-Israeli War noted: The problem of incremental analysis—especially as it applies to the current intelligence process--was also at work in the period preceding hostilities.
 
-Implications for Intelligence Analysis
-      Comprehending the nature of perception has significant implications for understanding the nature and limitations of intelligence analysis. The circumstances under which accurate perception is most difficult
-are exactly the circumstances under which intelligence analysis is generally conducted--dealing with highly ambiguous situations on the basis
-of information that is processed incrementally under pressure for early
-judgment. This is a recipe for inaccurate perception.
-      Intelligence seeks to illuminate the unknown. Almost by definition,
-intelligence analysis deals with highly ambiguous situations. As previously noted, the greater the ambiguity of the stimuli, the greater the
-impact of expectations and pre-existing images on the perception of that
+Analysts, according to their own accounts, were often proceeding on the basis of the day's take, hastily comparing it with material received the previous day. They then produced in 'assembly line fashion' items which may have reflected perceptive intuition but which [did not] accrue from a systematic consideration of an accumulated body of integrated evidence.29 And finally, the intelligence analyst operates in an environment that exerts strong pressures for what psychologists call premature closure.
 
+Customer demand for interpretive analysis is greatest within two or three days after an event occurs. The system requires the intelligence analyst to come up with an almost instant diagnosis before sufficient hard information, and the broader background information that may be needed to gain perspective, become available to make possible a well-grounded judgment. This diagnosis can only be based upon the analyst's preconceptions concerning how and why events normally transpire in a given society.
 
-                                     14
+As time passes and more information is received, a fresh look at all the evidence might suggest a different explanation. Yet, the perception experiments indicate that an early judgment adversely affects the formation of future perceptions. Once an observer thinks he or she knows what is happening, this perception tends to resist change. New data received incrementally can be fit easily into an analyst's previous image.
 
-stimuli. Thus, despite maximum striving for objectivity, the intelligence
-analyst's own preconceptions are likely to exert a greater impact on the
-analytical product than in other fields where an analyst is working with
-less ambiguous and less discordant information.
-      Moreover, the intelligence analyst is among the first to look at new
-problems at an early stage when the evidence is very fuzzy indeed. The
-analyst then follows a problem as additional increments of evidence are
-received and the picture gradually clarifes--as happened with test subjects in the experiment demonstrating that initial exposure to blurred
-stimuli interferes with accurate perception even after more and better
-information becomes available. If the results of this experiment can be
-generalized to apply to intelligence analysts, the experiment suggests that
-an analyst who starts observing a potential problem situation at an early
-and unclear stage is at a disadvantage as compared with others, such as
-policymakers, whose first exposure may come at a later stage when more
-and better information is available.
-      The receipt of information in small increments over time also facilitates assimilation of this information into the analyst's existing views.
-No one item of information may be sufficient to prompt the analyst to
-change a previous view. The cumulative message inherent in many pieces
-of information may be significant but is attenuated when this information is not examined as a whole. The Intelligence Community's review of
-its performance before the 1973 Arab-Israeli War noted:
-            The problem of incremental analysis--especially as it applies
-            to the current intelligence process--was also at work in the
-            period preceding hostilities. Analysts, according to their own
-            accounts, were often proceeding on the basis of the day's take,
-            hastily comparing it with material received the previous day.
-            They then produced in 'assembly line fashion' items which may
-            have reflected perceptive intuition but which [did not] accrue
-            from a systematic consideration of an accumulated body of integrated evidence.29
-     And finally, the intelligence analyst operates in an environment that
-exerts strong pressures for what psychologists call premature closure.
+This perceptual bias is reinforced by organizational pressures favoring consistent interpretation; once the analyst is committed in writing, both the analyst and the organization have a vested interest in maintaining the original assessment. That intelligence analysts perform as well as they do is testimony to their generally sound judgment, training, and dedication in performing a dauntingly difficult task. The problems outlined here have implications for the management as well as the conduct of analysis.
 
-29. The Performance of the Intelligence Community Before the Arab-Israeli War of October 1973:
-A Preliminary Post-Mortem Report, December 1973. The one-paragraph excerpt from this postmortem, as quoted in the text above, has been approved for public release, as was the title of the
-post-mortem, although that document as a whole remains classified.
+Given the difficulties inherent in the human processing of complex information, a prudent management system should:
 
+- Encourage products that clearly delineate their assumptions and chains of inference and that specify the degree and source of uncertainty involved in the conclusions.
 
-                                               15
+- Support analyses that periodically re-examine key problems from the ground up in order to avoid the pitfalls of the incremental approach.
 
-Customer demand for interpretive analysis is greatest within two or three
-days after an event occurs. The system requires the intelligence analyst to
-come up with an almost instant diagnosis before sufficient hard information, and the broader background information that may be needed
-to gain perspective, become available to make possible a well-grounded
-judgment. This diagnosis can only be based upon the analyst's preconceptions concerning how and why events normally transpire in a given
-society.
-     As time passes and more information is received, a fresh look at all
-the evidence might suggest a different explanation. Yet, the perception
-experiments indicate that an early judgment adversely affects the formation of future perceptions. Once an observer thinks he or she knows what
-is happening, this perception tends to resist change. New data received
-incrementally can be fit easily into an analyst's previous image. This perceptual bias is reinforced by organizational pressures favoring consistent
-interpretation; once the analyst is committed in writing, both the analyst
-and the organization have a vested interest in maintaining the original
-assessment.
-     That intelligence analysts perform as well as they do is testimony to
-their generally sound judgment, training, and dedication in performing
-a dauntingly difficult task.
-     The problems outlined here have implications for the management
-as well as the conduct of analysis. Given the difficulties inherent in the
-human processing of complex information, a prudent management system should:
+- Emphasize procedures that expose and elaborate alternative points of view.
 
-  • Encourage products that clearly delineate their assumptions and
-     chains of inference and that specify the degree and source of uncertainty involved in the conclusions.
-  • Support analyses that periodically re-examine key problems from
-     the ground up in order to avoid the pitfalls of the incremental
-     approach.
-  • Emphasize procedures that expose and elaborate alternative
-     points of view.
-  • Educate consumers about the limitations as well as the capabilities of intelligence analysis; define a set of realistic expectations as
-     a standard against which to judge analytical performance.
-
-                                     16
+- Educate consumers about the limitations as well as the capabilities of intelligence analysis; define a set of realistic expectations as a standard against which to judge analytical performance.
 
 ## Chapter 6: Keeping an Open Mind
 
-Chapter 6
-                         Keeping an Open Mind
-      Minds are like parachutes. They only function when they are open. After
-reviewing how and why thinking gets channeled into mental ruts, this chapter looks at mental tools to help analysts keep an open mind, question assumptions, see different perspectives, develop new ideas, and recognize when it is
-time to change their minds.
-      A new idea is the beginning, not the end, of the creative process. It must
-jump over many hurdles before being embraced as an organizational product
-or solution. The organizational climate plays a crucial role in determining
-whether new ideas bubble to the surface or are suppressed.
-                     *******************
-     Major intelligence failures are usually caused by failures of analysis,
-not failures of collection. Relevant information is discounted, misinterpreted, ignored, rejected, or overlooked because it fails to fit a prevailing
-mental model or mind-set.65 The "signals" are lost in the "noise."66 How
-can we ensure that analysts remain open to new experience and recognize
-
-
-65. Christopher Brady, "Intelligence Failures: Plus Ca Change. . ." Intelligence and National
-Security, Vol. 8, No. 4 (October 1993). N. Cigar, "Iraq's Strategic Mindset and the Gulf War:
-Blueprint for Defeat," The Journal of Strategic Studies, Vol. 15, No. 1 (March 1992). J. J.
-Wirtz, The Tet Offensive: Intelligence Failure in War (New York, 1991). Ephraim Kam, Surprise
-Attack (Harvard University Press, 1988). Richard Betts, Surprise Attack: Lessons for Defense
-Planning (Brookings, 1982). Abraham Ben-Zvi, "The Study of Surprise Attacks," British Journal
-of International Studies, Vol. 5 (1979). Iran: Evaluation of Intelligence Performance Prior to
-November 1978 (Staf Report, Subcommittee on Evaluation, Permanent Select Committee on
-Intelligence, US House of Representatives, January 1979). Richard Betts, "Analysis, War and
-Decision: Why Intelligence Failures Are Inevitable," World Politics, Vol. 31, No. 1 (October
-1978). Richard W. Shryock, "The Intelligence Community Post-Mortem Program, 1973-1975," Studies in Intelligence, Vol. 21, No. 1 (Fall 1977). Avi Schlaim, "Failures in National
-Intelligence Estimates: The Case of the Yom Kippur War," World Politics, Vol. 28 (April 1976).
-Michael Handel, Perception, Deception, and Surprise: The Case of the Yom Kippur War (Jerusalem:
-Leonard Davis Institute of International Relations, Jerusalem Paper No. 19, 1976). Klaus
-Knorr, "Failures in National Intelligence Estimates: The Case of the Cuban Missiles," World
-Politics, Vol. 16 (1964).
-66. Roberta Wohlstetter, Pearl Harbor: Warning and Decision (Stanford University Press, 1962).
-Roberta Wohlstetter, "Cuba and Pearl Harbor: Hindsight and Foresight," Foreign Affairs, Vol.
-43, No. 4 (July 1965).
-
-
-                                             65
-
-when long-held views or conventional wisdom need to be revised in response to a changing world?
-      Beliefs, assumptions, concepts, and information retrieved from
-memory form a mind-set or mental model that guides perception and
-processing of new information. The nature of the intelligence business
-forces us to deal with issues at an early stage when hard information is
-incomplete. If there were no gaps in the information on an issue or situation, and no ambiguity, it would not be an interesting intelligence problem. When information is lacking, analysts often have no choice but to
-lean heavily on prior beliefs and assumptions about how and why events
-normally transpire in a given country.
-      A mind-set is neither good nor bad. It is unavoidable. It is, in essence, a distillation of all that analysts think they know about a subject.
-It forms a lens through which they perceive the world, and once formed,
-it resists change.
-
-Understanding Mental Ruts
-     Chapter 3 on memory suggested thinking of information in memory as somehow interconnected like a massive, multidimensional spider
-web. It is possible to connect any point within this web to any other
-point. When analysts connect the same points frequently, they form a
-path that makes it easier to take that route in the future. Once they start
-thinking along certain channels, they tend to continue thinking the same
-way and the path may become a rut. The path seems like the obvious and
-natural way to go. Information and concepts located near that path are
-readily available, so the same images keep coming up. Information not
-located near that path is less likely to come to mind.
-     Talking about breaking mind-sets, or creativity, or even just openness to new information is really talking about spinning new links and
-new paths through the web of memory. These are links among facts and
-concepts, or between schemata for organizing facts or concepts, that were
-not directly connected or only weakly connected before.
-     New ideas result from the association of old elements in new combinations. Previously remote elements of thought suddenly become associated
-
-
-                                    66
-
- in a new and useful combination.67 When the linkage is made,
-the light dawns. This ability to bring previously unrelated information
-and ideas together in meaningful ways is what marks the open-minded,
-imaginative, creative analyst.
-      To illustrate how the mind works, consider my personal experience
-with a kind of mental block familiar to all analysts--writer's block. I
-often need to break a mental block when writing. Everything is going
-along fine until I come to one paragraph and get stuck. I write something
-down, know it is not quite right, but just cannot think of a better way to
-say it. However I try to change the paragraph, it still comes out basically
-the same way. My thinking has become channeled, and I cannot break
-out of that particular thought pattern to write it differently.
-      A common response to this problem is to take a break, work on
-something different for a while, and come back to the difficult portion
-later. With the passage of time, the path becomes less pronounced and it
-becomes easier to make other connections.
-      I have found another solution. I force myself to talk about it out
-loud. I close the door to my office--I am embarrassed to have anyone
-hear me talking to myself--and then stand up and walk around and talk.
-I say, okay, "What is the point of this paragraph? What are you trying to
-communicate?" I answer myself out loud as though talking to someone
-else. "The point I am trying to get across is that . . . ," and then it just
-comes. Saying it out loud breaks the block, and words start coming together in different ways.
-      Recent research explains why this happens. Scientists have learned
-that written language and spoken language are processed in different
-parts of the brain.68 They activate different neurons.
-
-Problem-Solving Exercise
-      Before discussing how analysts can keep their minds open to new
-information, let us warm up to this topic with a brief exercise. Without
-lifting pencil from paper, draw no more than four straight lines that will
-cross through all nine dots in Figure 6.69
-
-67. S. A. Mednick, "The Associative Basis of the Creative Process," Psychological Review, Vol. 69
-(1962), p. 221.
-68. Jerry E. Bishop, "Stroke Patients Yield Clues to Brain's Ability to Create Language," Wall
-Street Journal, Oct. 12, 1993, p.A1.
-69. The puzzle is from James L. Adams, Conceptual Blockbusting: A Guide to Better Ideas. Second
-Edition (New York: W. W. Norton, 1980), p. 23.
-
-
-                                              67
-
-      After trying to solve the puzzle on your own, refer to the end of
-this chapter for answers and further discussion. Then consider that intelligence analysis is too often limited by similar, unconscious, self-imposed
-constraints or "cages of the mind."
-      You do not need to be constrained by conventional wisdom. It is
-often wrong. You do not necessarily need to be constrained by existing
-policies. They can sometimes be changed if you show a good reason for
-doing so. You do not necessarily need to be constrained by the specific
-analytical requirement you were given. The policymaker who originated
-the requirement may not have thought through his or her needs or the
-requirement may be somewhat garbled as it passes down through several
-echelons to you to do the work. You may have a better understanding
-than the policymaker of what he or she needs, or should have, or what is
-possible to do. You should not hesitate to go back up the chain of command with a suggestion for doing something a little different than what
-was asked for.
-
-
-                                    68
-
-Mental Tools
-     People use various physical tools such as a hammer and saw to enhance their capacity to perform various physical tasks. People can also
-use simple mental tools to enhance their ability to perform mental tasks.
-These tools help overcome limitations in human mental machinery for
-perception, memory, and inference. The next few sections of this chapter
-discuss mental tools for opening analysts' minds to new ideas, while the
-next one (Chapter 7) deals with mental tools for structuring complex
-analytical problems.
-
-Questioning Assumptions
-     It is a truism that analysts need to question their assumptions.
-Experience tells us that when analytical judgments turn out to be wrong,
-it usually was not because the information was wrong. It was because an
-analyst made one or more faulty assumptions that went unchallenged.
-The problem is that analysts cannot question everything, so where do
-they focus their attention?
-     Sensitivity Analysis. One approach is to do an informal sensitivity
-analysis. How sensitive is the ultimate judgment to changes in any of
-the major variables or driving forces in the analysis? Those linchpin assumptions that drive the analysis are the ones that need to be questioned.
-Analysts should ask themselves what could happen to make any of these
-assumptions out of date, and how they can know this has not already
-happened. They should try to disprove their assumptions rather than
-confirm them. If an analyst cannot think of anything that would cause
-a change of mind, his or her mind-set may be so deeply entrenched that
-the analyst cannot see the conficting evidence. One advantage of the
-competing hypotheses approach discussed in Chapter 8 is that it helps
-identify the linchpin assumptions that swing a conclusion in one direction or another.
-     Identify Alternative Models. Analysts should try to identify alternative models, conceptual frameworks, or interpretations of the data by
-seeking out individuals who disagree with them rather than those who
-agree. Most people do not do that very often. It is much more comfortable to talk with people in one's own office who share the same basic
-mind-set. There are a few things that can be done as a matter of policy,
-
-
-                                   69
-
-and that have been done in some offices in the past, to help overcome
-this tendency.
-      At least one Directorate of Intelligence component, for example,
-has had a peer review process in which none of the reviewers was from
-the branch that produced the report. The rationale for this was that an
-analyst's immediate colleagues and supervisor(s) are likely to share a common mind-set. Hence these are the individuals least likely to raise fundamental issues challenging the validity of the analysis. To avoid this mindset problem, each research report was reviewed by a committee of three
-analysts from other branches handling other countries or issues. None
-of them had specialized knowledge of the subject. They were, however,
-highly accomplished analysts. Precisely because they had not been immersed in the issue in question, they were better able to identify hidden
-assumptions and other alternatives, and to judge whether the analysis
-adequately supported the conclusions.
-      Be Wary of Mirror Images. One kind of assumption an analyst
-should always recognize and question is mirror-imaging--filling gaps in
-the analyst's own knowledge by assuming that the other side is likely to
-act in a certain way because that is how the US would act under similar
-circumstances. To say, "if I were a Russian intelligence officer . . ." or "if
-I were running the Indian Government . . ." is mirror-imaging. Analysts
-may have to do that when they do not know how the Russian intelligence
-officer or the Indian Government is really thinking. But mirror-imaging
-leads to dangerous assumptions, because people in other cultures do not
-think the way we do. The frequent assumption that they do is what Adm.
-David Jeremiah, after reviewing the Intelligence Community failure to
-predict India's nuclear weapons testing, termed the "everybody-thinkslike-us mind-set."70
-      Failure to understand that others perceive their national interests
-differently from the way we perceive those interests is a constant source of
-problems in intelligence analysis. In 1977, for example, the Intelligence
-Community was faced with evidence of what appeared to be a South
-African nuclear weapons test site. Many in the Intelligence Community,
-especially those least knowledgeable about South Africa, tended to dismiss this evidence on the grounds that "Pretoria would not want a nuclear
-
-
-70. Jim Wolf, "CIA Inquest Finds US Missed Indian `Mindset'," UPI wire service, June 3,
-1998.
-
-
-                                            70
-
-weapon, because there is no enemy they could effectively use it on."71
-The US perspective on what is in another country's national interest is
-usually irrelevant in intelligence analysis. Judgment must be based on
-how the other country perceives its national interest. If the analyst cannot gain insight into what the other country is thinking, mirror-imaging
-may be the only alternative, but analysts should never get caught putting
-much confidence in that kind of judgment.
-
-Seeing Different Perspectives
-     Another problem area is looking at familiar data from a different
-perspective. If you play chess, you know you can see your own options
-pretty well. It is much more difficult to see all the pieces on the board
-as your opponent sees them, and to anticipate how your opponent will
-react to your move. That is the situation analysts are in when they try
-to see how the US Government's actions look from another country's
-perspective. Analysts constantly have to move back and forth, first seeing
-the situation from the US perspective and then from the other country's
-perspective. This is difficult to do, as you experienced with the picture of
-the old woman/young woman in Chapter 2 on perception.
-     Several techniques for seeing alternative perspectives exploit the
-general principle of coming at the problem from a different direction and
-asking different questions. These techniques break your existing mind-set
-by causing you to play a different and unaccustomed role.
-     Thinking Backwards. One technique for exploring new ground is
-thinking backwards. As an intellectual exercise, start with an assumption
-that some event you did not expect has actually occurred. Then, put
-yourself into the future, looking back to explain how this could have
-happened. Tink what must have happened six months or a year earlier
-to set the stage for that outcome, what must have happened six months
-or a year before that to prepare the way, and so on back to the present.
-     Thinking backwards changes the focus from whether something
-might happen to how it might happen. Putting yourself into the future
-creates a different perspective that keeps you from getting anchored in
-the present. Analysts will often find, to their surprise, that they can construct a quite plausible scenario for an event they had previously thought
-unlikely. Thinking backwards is particularly helpful for events that have
-
-
-71. Discussion with Robert Jaster, former National Intelligence Officer for Southern Africa.
-
-
-                                             71
-
-a low probability but very serious consequences should they occur, such
-as a collapse or overthrow of the Saudi monarchy.
-      Crystal Ball. The crystal ball approach works in much the same
-way as thinking backwards.72 Imagine that a "perfect" intelligence source
-(such as a crystal ball) has told you a certain assumption is wrong. You
-must then develop a scenario to explain how this could be true. If you
-can develop a plausible scenario, this suggests your assumption is open
-to some question.
-      Role playing. Role playing is commonly used to overcome constraints and inhibitions that limit the range of one's thinking. Playing
-a role changes "where you sit." It also gives one license to think and act
-differently. Simply trying to imagine how another leader or country will
-think and react, which analysts do frequently, is not role playing. One
-must actually act out the role and become, in a sense, the person whose
-role is assumed. It is only "living" the role that breaks an analyst's normal
-mental set and permits him or her to relate facts and ideas to each other
-in ways that differ from habitual patterns. An analyst cannot be expected
-to do this alone; some group interaction is required, with different analysts playing different roles, usually in the context of an organized simulation or game.
-      Most of the gaming done in the Defense Department and in the
-academic world is rather elaborate and requires substantial preparatory
-work. It does not have to be that way. The preparatory work can be
-avoided by starting the game with the current situation already known
-to analysts, rather than with a notional scenario that participants have to
-learn. Just one notional intelligence report is sufficient to start the action
-in the game. In my experience, it is possible to have a useful political
-game in just one day with almost no investment in preparatory work.
-      Gaming gives no "right" answer, but it usually causes the players
-to see some things in a new light. Players become very conscious that
-"where you stand depends on where you sit." By changing roles, the participants see the problem in a different context. This frees the mind to
-think differently.
-      Devil's Advocate. A devil's advocate is someone who defends a minority point of view. He or she may not necessarily agree with that view,
-
-72. Jon Fallesen, Rex Michel, James Lussier, and Julia Pounds, "Practical Thinking: Innovation
-in Battle Command Instruction" (Technical Report 1037, US Army Research Institute for the
-Behavioral and Social Sciences, January 1996).
-
-
-                                             72
-
-but may choose or be assigned to represent it as strenuously as possible.
-The goal is to expose conficting interpretations and show how alternative assumptions and images make the world look different. It often requires time, energy, and commitment to see how the world looks from a
-different perspective.73
-      Imagine that you are the boss at a US facility overseas and are worried about the possibility of a terrorist attack. A standard staf response
-would be to review existing measures and judge their adequacy. There
-might well be pressure--subtle or otherwise--from those responsible for
-such arrangements to find them satisfactory. An alternative or supplementary approach would be to name an individual or small group as a
-devil's advocate assigned to develop actual plans for launching such an
-attack. The assignment to think like a terrorist liberates the designated
-person(s) to think unconventionally and be less inhibited about finding
-weaknesses in the system that might embarrass colleagues, because uncovering any such weaknesses is the assigned task.
-      Devil's advocacy has a controversial history in the Intelligence
-Community. Suffice it to say that some competition between conficting views is healthy and must be encouraged; all-out political battle is
-counterproductive.
-
-Recognizing When To Change Your Mind
-      As a general rule, people are too slow to change an established view,
-as opposed to being too willing to change. The human mind is conservative. It resists change. Assumptions that worked well in the past continue
-to be applied to new situations long after they have become outmoded.
-      Learning from Surprise. A study of senior managers in industry
-identified how some successful managers counteract this conservative
-bent. They do it, according to the study,
-
-            By paying attention to their feelings of surprise when a particular fact does not fit their prior understanding, and then by
-            highlighting rather than denying the novelty. Although surprise
-            made them feel uncomfortable, it made them take the cause
-            [of the surprise] seriously and inquire into it. . . . Rather than
-
-
-73. For an interesting discussion of the strengths and potential weaknesses of the "devil's
-advocate" approach, see Robert Jervis, Perception and Misperception in International Politics
-(Princeton, NJ: Princeton University Press, 1976), pp. 415-418.
-
-
-                                               73
-
-           deny, downplay, or ignore disconfirmation [of their prior view],
-           successful senior managers often treat it as friendly and in a way
-           cherish the discomfort surprise creates. As a result, these managers often perceive novel situations early on and in a frame of
-           mind relatively undistorted by hidebound notions.74
-
-      Analysts should keep a record of unexpected events and think hard
-about what they might mean, not disregard them or explain them away.
-It is important to consider whether these surprises, however small, are
-consistent with some alternative hypothesis. One unexpected event may
-be easy to disregard, but a pattern of surprises may be the first clue that
-your understanding of what is happening requires some adjustment, is at
-best incomplete, and may be quite wrong.
-      Strategic Assumptions vs. Tactical Indicators. Abraham Ben-Zvi
-analyzed five cases of intelligence failure to foresee a surprise attack.75 He
-made a useful distinction between estimates based on strategic assumptions and estimates based on tactical indications. Examples of strategic
-assumptions include the US belief in 1941 that Japan wished to avoid
-war at all costs because it recognized US military superiority, and the
-Israeli belief in 1973 that the Arabs would not attack Israel until they
-obtained sufficient air power to secure control of the skies. A more recent
-instance was the 1998 Indian nuclear test, which was widely viewed as a
-surprise and, at least in part, as a failure by the experts to warn of an impending test. The incorrect strategic assumption was that the new Indian
-Government would be dissuaded from testing nuclear weapons for fear
-of US economic sanctions.76
-      Tactical indicators are specific reports of preparations or intent to
-initiate hostile action or, in the recent Indian case, reports of preparations
-for a nuclear test. Ben-Zvi found that whenever strategic assumptions
-and tactical indicators of impending attack converged, an immediate
-threat was perceived and appropriate precautionary measures were taken.
-
-
-74. Daniel J. Isenberg, "How Senior Managers Tink," in David Bell, Howard Raifa, and
-Amos Tversky, Decision Making: Descriptive, Normative, and Prescriptive Interactions (Cambridge
-University Press, 1988), p. 535.
-75. Abraham Ben Zvi, "Hindsight and Foresight: A Conceptual Framework for the Analysis of
-Surprise Attacks," World Politics, April 1976.
-76. Transcript of Admiral David Jeremiah's news conference on the Intelligence Community's
-performance concerning the Indian nuclear test, fourth and fifth paragraphs and first Q and A,
-2 June 1998.
-
-
-                                             74
-
-When discrepancies existed between tactical indicators and strategic assumptions in the five cases Ben-Zvi analyzed, the strategic assumptions
-always prevailed, and they were never reevaluated in the light of the increasing fow of contradictory information. Ben-Zvi concludes that tactical indicators should be given increased weight in the decisionmaking
-process. At a minimum, the emergence of tactical indicators that contradict our strategic assumption should trigger a higher level of intelligence
-alert. It may indicate that a bigger surprise is on the way.
-      Chapter 8, "Analysis of Competing Hypotheses," provides a framework for identifying surprises and weighing tactical indicators and other
-forms of current evidence against longstanding assumptions and beliefs.
-
-Stimulating Creative Thinking
-      Imagination and creativity play important roles in intelligence analysis as in most other human endeavors. Intelligence judgments require
-the ability to imagine possible causes and outcomes of a current situation. All possible outcomes are not given. The analyst must think of
-them by imagining scenarios that explicate how they might come about.
-Similarly, imagination as well as knowledge is required to reconstruct
-how a problem appears from the viewpoint of a foreign government.
-Creativity is required to question things that have long been taken for
-granted. The fact that apples fall from trees was well known to everyone.
-Newton's creative genius was to ask "why?" Intelligence analysts, too, are
-expected to raise new questions that lead to the identification of previously unrecognized relationships or to possible outcomes that had not
-previously been foreseen.
-      A creative analytical product shows a fair for devising imaginative
-or innovative--but also accurate and effective--ways to fulfill any of the
-major requirements of analysis: gathering information, analyzing information, documenting evidence, and/or presenting conclusions. Tapping
-unusual sources of data, asking new questions, applying unusual analytic
-methods, and developing new types of products or new ways of fitting
-analysis to the needs of consumers are all examples of creative activity.
-      A person's intelligence, as measured by IQ tests, has little to do with
-creativity, but the organizational environment exercises a major influence. New but appropriate ideas are most likely to arise in an organizational climate that nurtures their development and communication.
-
-
-                                     75
-
-      The old view that creativity is something one is born with, and that
-it cannot be taught or developed, is largely untrue. While native talent, per se, is important and may be immutable, it is possible to learn
-to employ one's innate talents more productively. With understanding,
-practice, and conscious effort, analysts can learn to produce more imaginative, innovative, creative work.
-      There is a large body of literature on creativity and how to stimulate it. At least a half-dozen different methods have been developed for
-teaching, facilitating, or liberating creative thinking. All the methods for
-teaching or facilitating creativity are based on the assumption that the
-process of thinking can be separated from the content of thought. One
-learns mental strategies that can be applied to any subject.
-      It is not our purpose here to review commercially available programs
-for enhancing creativity. Such programmatic approaches can be applied
-more meaningfully to problems of new product development, advertising, or management than to intelligence analysis. It is relevant, however,
-to discuss several key principles and techniques that these programs have
-in common, and that individual intelligence analysts or groups of analysts can apply in their work.
-      Intelligence analysts must generate ideas concerning potential causes
-or explanations of events, policies that might be pursued or actions taken by a foreign government, possible outcomes of an existing situation,
-and variables that will influence which outcome actually comes to pass.
-Analysts also need help to jog them out of mental ruts, to stimulate their
-memories and imaginations, and to perceive familiar events from a new
-perspective.
-      Here are some of the principles and techniques of creative thinking
-that can be applied to intelligence analysis.
-      Deferred Judgment. The principle of deferred judgment is undoubtedly the most important. The idea-generation phase of analysis should be
-separated from the idea-evaluation phase, with evaluation deferred until
-all possible ideas have been brought out. This approach runs contrary to
-the normal procedure of thinking of ideas and evaluating them concurrently. Stimulating the imagination and critical thinking are both important, but they do not mix well. A judgmental attitude dampens the
-imagination, whether it manifests itself as self-censorship of one's own
-ideas or fear of critical evaluation by colleagues or supervisors. Idea generation should be a freewheeling, unconstrained, uncritical process.
-
-
-                                    76
-
-      New ideas are, by definition, unconventional, and therefore likely
-to be suppressed, either consciously or unconsciously, unless they are
-born in a secure and protected environment. Critical judgment should
-be suspended until after the idea-generation stage of analysis has been
-completed. A series of ideas should be written down and then evaluated
-later. This applies to idea searching by individuals as well as brainstorming in a group. Get all the ideas out on the table before evaluating any
-of them.
-      Quantity Leads to Quality. A second principle is that quantity of
-ideas eventually leads to quality. This is based on the assumption that
-the first ideas that come to mind will be those that are most common
-or usual. It is necessary to run through these conventional ideas before
-arriving at original or different ones. People have habitual ways of thinking, ways that they continue to use because they have seemed successful
-in the past. It may well be that these habitual responses, the ones that
-come first to mind, are the best responses and that further search is unnecessary. In looking for usable new ideas, however, one should seek to
-generate as many ideas as possible before evaluating any of them.
-      No Self-Imposed Constraints. A third principle is that thinking
-should be allowed--indeed encouraged--to range as freely as possible. It
-is necessary to free oneself from self-imposed constraints, whether they
-stem from analytical habit, limited perspective, social norms, emotional
-blocks, or whatever.
-      Cross-Fertilization of Ideas. A fourth principle of creative problem-solving is that cross-fertilization of ideas is important and necessary.
-Ideas should be combined with each other to form more and even better
-ideas. If creative thinking involves forging new links between previously
-unrelated or weakly related concepts, then creativity will be stimulated
-by any activity that brings more concepts into juxtaposition with each
-other in fresh ways. Interaction with other analysts is one basic mechanism for this. As a general rule, people generate more creative ideas when
-teamed up with others; they help to build and develop each other's ideas.
-Personal interaction stimulates new associations between ideas. It also
-induces greater effort and helps maintain concentration on the task.
-      These favorable comments on group processes are not meant to encompass standard committee meetings or coordination processes that
-force consensus based on the lowest common denominator of agreement. My positive words about group interaction apply primarily to
-
-
-                                    77
-
-brainstorming sessions aimed at generating new ideas and in which, according to the first principle discussed above, all criticism and evaluation
-are deferred until after the idea generation stage is completed.
-     Thinking things out alone also has its advantages: individual thought
-tends to be more structured and systematic than interaction within a
-group. Optimal results come from alternating between individual thinking and team effort, using group interaction to generate ideas that supplement individual thought. A diverse group is clearly preferable to a
-homogeneous one. Some group participants should be analysts who are
-not close to the problem, inasmuch as their ideas are more likely to reflect
-different insights.
-     Idea Evaluation. All creativity techniques are concerned with
-stimulating the fow of ideas. There are no comparable techniques for
-determining which ideas are best. The procedures are, therefore, aimed
-at idea generation rather than idea evaluation. The same procedures do
-aid in evaluation, however, in the sense that ability to generate more alternatives helps one see more potential consequences, repercussions, and
-effects that any single idea or action might entail.
-
-Organizational Environment
-      A new idea is not the end product of the creative process. Rather,
-it is the beginning of what is sometimes a long and tortuous process of
-translating an idea into an innovative product. The idea must be developed, evaluated, and communicated to others, and this process is influenced by the organizational setting in which it transpires. The potentially
-useful new idea must pass over a number of hurdles before it is embraced
-as an organizational product.
-      The following paragraphs describe in some detail research conducted
-by Frank Andrews to investigate the relationship among creative ability,
-organizational setting, and innovative research products.77 The subjects
-of this research were 115 scientists, each of whom had directed a research project dealing with social-psychological aspects of disease. These
-scientists were given standardized tests that measure creative ability and
-intelligence. They were also asked to fill out an extensive questionnaire
-
-77. Frank M. Andrews, "Social and Psychological Factors Which Influence the Creative
-Process," in Irving A. Taylor and Jacob W. Getzels, eds., Perspectives in Creativity (Chicago,
-Aldine Publishing, 1975).
-
-
-                                                78
-
-concerning the environment in which their research was conducted. A
-panel of judges composed of the leading scientists in the field of medical
-sociology was asked to evaluate the principal published results from each
-of the 115 research projects.
-      Judges evaluated the research results on the basis of productivity and
-innovation. Productivity was defined as the "extent to which the research
-represents an addition to knowledge along established lines of research
-or as extensions of previous theory." Innovativeness was defined as "additions to knowledge through new lines of research or the development of
-new theoretical statements of findings that were not explicit in previous
-theory.78 Innovation, in other words, involved raising new questions and
-developing new approaches to the acquisition of knowledge, as distinct
-from working productively within an already established framework.
+Minds are like parachutes. They only function when they are open. After reviewing how and why thinking gets channeled into mental ruts, this chapter looks at mental tools to help analysts keep an open mind, question assumptions, see different perspectives, develop new ideas, and recognize when it is time to change their minds. A new idea is the beginning, not the end, of the creative process. It must jump over many hurdles before being embraced as an organizational product or solution.
+
+The organizational climate plays a crucial role in determining whether new ideas bubble to the surface or are suppressed. Major intelligence failures are usually caused by failures of analysis, not failures of collection.
+
+Relevant information is discounted, misinterpreted, ignored, rejected, or overlooked because it fails to fit a prevailing mental model or mind-set.65 The "signals" are lost in the "noise."66 How can we ensure that analysts remain open to new experience and recognize when long-held views or conventional wisdom need to be revised in response to a changing world?
+
+Beliefs, assumptions, concepts, and information retrieved from memory form a mind-set or mental model that guides perception and processing of new information. The nature of the intelligence business forces us to deal with issues at an early stage when hard information is incomplete. If there were no gaps in the information on an issue or situation, and no ambiguity, it would not be an interesting intelligence problem.
+
+When information is lacking, analysts often have no choice but to lean heavily on prior beliefs and assumptions about how and why events normally transpire in a given country. A mind-set is neither good nor bad. It is unavoidable. It is, in essence, a distillation of all that analysts think they know about a subject. It forms a lens through which they perceive the world, and once formed, it resists change.
+
+Understanding Mental Ruts Chapter 3 on memory suggested thinking of information in memory as somehow interconnected like a massive, multidimensional spider web. It is possible to connect any point within this web to any other point. When analysts connect the same points frequently, they form a path that makes it easier to take that route in the future. Once they start thinking along certain channels, they tend to continue thinking the same way and the path may become a rut.
+
+The path seems like the obvious and natural way to go. Information and concepts located near that path are readily available, so the same images keep coming up. Information not located near that path is less likely to come to mind. Talking about breaking mind-sets, or creativity, or even just openness to new information is really talking about spinning new links and new paths through the web of memory.
+
+These are links among facts and concepts, or between schemata for organizing facts or concepts, that were not directly connected or only weakly connected before. New ideas result from the association of old elements in new combinations. Previously remote elements of thought suddenly become associated in a new and useful combination.67 When the linkage is made, the light dawns.
+
+This ability to bring previously unrelated information and ideas together in meaningful ways is what marks the open-minded, imaginative, creative analyst. To illustrate how the mind works, consider my personal experience with a kind of mental block familiar to all analysts--writer's block. I often need to break a mental block when writing. Everything is going along fine until I come to one paragraph and get stuck. I write something down, know it is not quite right, but just cannot think of a better way to say it.
+
+However I try to change the paragraph, it still comes out basically the same way. My thinking has become channeled, and I cannot break out of that particular thought pattern to write it differently. A common response to this problem is to take a break, work on something different for a while, and come back to the difficult portion later. With the passage of time, the path becomes less pronounced and it becomes easier to make other connections. I have found another solution. I force myself to talk about it out loud.
+
+I close the door to my office--I am embarrassed to have anyone hear me talking to myself--and then stand up and walk around and talk. I say, okay, "What is the point of this paragraph? What are you trying to communicate?" I answer myself out loud as though talking to someone else. "The point I am trying to get across is that . . . ," and then it just comes. Saying it out loud breaks the block, and words start coming together in different ways. Recent research explains why this happens.
+
+Scientists have learned that written language and spoken language are processed in different parts of the brain.68 They activate different neurons.
+
+Problem-Solving Exercise Before discussing how analysts can keep their minds open to new information, let us warm up to this topic with a brief exercise. Without lifting pencil from paper, draw no more than four straight lines that will cross through all nine dots in Figure 6.69
+
+After trying to solve the puzzle on your own, refer to the end of this chapter for answers and further discussion. Then consider that intelligence analysis is too often limited by similar, unconscious, self-imposed constraints or "cages of the mind." You do not need to be constrained by conventional wisdom. It is often wrong. You do not necessarily need to be constrained by existing policies. They can sometimes be changed if you show a good reason for doing so.
+
+You do not necessarily need to be constrained by the specific analytical requirement you were given. The policymaker who originated the requirement may not have thought through his or her needs or the requirement may be somewhat garbled as it passes down through several echelons to you to do the work. You may have a better understanding than the policymaker of what he or she needs, or should have, or what is possible to do.
+
+You should not hesitate to go back up the chain of command with a suggestion for doing something a little different than what was asked for.
+
+Mental Tools People use various physical tools such as a hammer and saw to enhance their capacity to perform various physical tasks. People can also use simple mental tools to enhance their ability to perform mental tasks. These tools help overcome limitations in human mental machinery for perception, memory, and inference.
+
+The next few sections of this chapter discuss mental tools for opening analysts' minds to new ideas, while the next one (Chapter 7) deals with mental tools for structuring complex analytical problems.
+
+Questioning Assumptions It is a truism that analysts need to question their assumptions. Experience tells us that when analytical judgments turn out to be wrong, it usually was not because the information was wrong. It was because an analyst made one or more faulty assumptions that went unchallenged. The problem is that analysts cannot question everything, so where do they focus their attention? Sensitivity Analysis. One approach is to do an informal sensitivity analysis.
+
+How sensitive is the ultimate judgment to changes in any of the major variables or driving forces in the analysis? Those linchpin assumptions that drive the analysis are the ones that need to be questioned. Analysts should ask themselves what could happen to make any of these assumptions out of date, and how they can know this has not already happened. They should try to disprove their assumptions rather than confirm them.
+
+If an analyst cannot think of anything that would cause a change of mind, his or her mind-set may be so deeply entrenched that the analyst cannot see the conflicting evidence. One advantage of the competing hypotheses approach discussed in Chapter 8 is that it helps identify the linchpin assumptions that swing a conclusion in one direction or another. Identify Alternative Models.
+
+Analysts should try to identify alternative models, conceptual frameworks, or interpretations of the data by seeking out individuals who disagree with them rather than those who agree. Most people do not do that very often. It is much more comfortable to talk with people in one's own office who share the same basic mind-set. There are a few things that can be done as a matter of policy, and that have been done in some offices in the past, to help overcome this tendency.
+
+At least one Directorate of Intelligence component, for example, has had a peer review process in which none of the reviewers was from the branch that produced the report. The rationale for this was that an analyst's immediate colleagues and supervisor(s) are likely to share a common mind-set. Hence these are the individuals least likely to raise fundamental issues challenging the validity of the analysis.
+
+To avoid this mindset problem, each research report was reviewed by a committee of three analysts from other branches handling other countries or issues. None of them had specialized knowledge of the subject. They were, however, highly accomplished analysts. Precisely because they had not been immersed in the issue in question, they were better able to identify hidden assumptions and other alternatives, and to judge whether the analysis adequately supported the conclusions. Be Wary of Mirror Images.
+
+One kind of assumption an analyst should always recognize and question is mirror-imaging--filling gaps in the analyst's own knowledge by assuming that the other side is likely to act in a certain way because that is how the US would act under similar circumstances. To say, "if I were a Russian intelligence officer . . ." or "if I were running the Indian Government . . ." is mirror-imaging.
+
+Analysts may have to do that when they do not know how the Russian intelligence officer or the Indian Government is really thinking. But mirror-imaging leads to dangerous assumptions, because people in other cultures do not think the way we do. The frequent assumption that they do is what Adm.
+
+David Jeremiah, after reviewing the Intelligence Community failure to predict India's nuclear weapons testing, termed the "everybody-thinks-like-us mind-set."70 Failure to understand that others perceive their national interests differently from the way we perceive those interests is a constant source of problems in intelligence analysis.
+
+In 1977, for example, the Intelligence Community was faced with evidence of what appeared to be a South African nuclear weapons test site. Many in the Intelligence Community, especially those least knowledgeable about South Africa, tended to dismiss this evidence on the grounds that "Pretoria would not want a nuclear weapon, because there is no enemy they could effectively use it on."71 The US perspective on what is in another country's national interest is usually irrelevant in intelligence analysis.
+
+Judgment must be based on how the other country perceives its national interest. If the analyst cannot gain insight into what the other country is thinking, mirror-imaging may be the only alternative, but analysts should never get caught putting much confidence in that kind of judgment.
+
+Seeing Different Perspectives Another problem area is looking at familiar data from a different perspective. If you play chess, you know you can see your own options pretty well. It is much more difficult to see all the pieces on the board as your opponent sees them, and to anticipate how your opponent will react to your move. That is the situation analysts are in when they try to see how the US Government's actions look from another country's perspective.
+
+Analysts constantly have to move back and forth, first seeing the situation from the US perspective and then from the other country's perspective. This is difficult to do, as you experienced with the picture of the old woman/young woman in Chapter 2 on perception. Several techniques for seeing alternative perspectives exploit the general principle of coming at the problem from a different direction and asking different questions.
+
+These techniques break your existing mind-set by causing you to play a different and unaccustomed role. Thinking Backwards. One technique for exploring new ground is thinking backwards. As an intellectual exercise, start with an assumption that some event you did not expect has actually occurred. Then, put yourself into the future, looking back to explain how this could have happened.
+
+Tink what must have happened six months or a year earlier to set the stage for that outcome, what must have happened six months or a year before that to prepare the way, and so on back to the present. Thinking backwards changes the focus from whether something might happen to how it might happen. Putting yourself into the future creates a different perspective that keeps you from getting anchored in the present.
+
+Analysts will often find, to their surprise, that they can construct a quite plausible scenario for an event they had previously thought unlikely. Thinking backwards is particularly helpful for events that have a low probability but very serious consequences should they occur, such as a collapse or overthrow of the Saudi monarchy. Crystal Ball.
+
+The crystal ball approach works in much the same way as thinking backwards.72 Imagine that a "perfect" intelligence source (such as a crystal ball) has told you a certain assumption is wrong. You must then develop a scenario to explain how this could be true. If you can develop a plausible scenario, this suggests your assumption is open to some question. Role playing. Role playing is commonly used to overcome constraints and inhibitions that limit the range of one's thinking.
+
+Playing a role changes "where you sit." It also gives one license to think and act differently. Simply trying to imagine how another leader or country will think and react, which analysts do frequently, is not role playing. One must actually act out the role and become, in a sense, the person whose role is assumed. It is only "living" the role that breaks an analyst's normal mental set and permits him or her to relate facts and ideas to each other in ways that differ from habitual patterns.
+
+An analyst cannot be expected to do this alone; some group interaction is required, with different analysts playing different roles, usually in the context of an organized simulation or game. Most of the gaming done in the Defense Department and in the academic world is rather elaborate and requires substantial preparatory work. It does not have to be that way.
+
+The preparatory work can be avoided by starting the game with the current situation already known to analysts, rather than with a notional scenario that participants have to learn. Just one notional intelligence report is sufficient to start the action in the game. In my experience, it is possible to have a useful political game in just one day with almost no investment in preparatory work. Gaming gives no "right" answer, but it usually causes the players to see some things in a new light.
+
+Players become very conscious that "where you stand depends on where you sit." By changing roles, the participants see the problem in a different context. This frees the mind to think differently. Devil's Advocate. A devil's advocate is someone who defends a minority point of view. He or she may not necessarily agree with that view, but may choose or be assigned to represent it as strenuously as possible.
+
+The goal is to expose conflicting interpretations and show how alternative assumptions and images make the world look different. It often requires time, energy, and commitment to see how the world looks from a different perspective.73 Imagine that you are the boss at a US facility overseas and are worried about the possibility of a terrorist attack. A standard staff response would be to review existing measures and judge their adequacy.
+
+There might well be pressure--subtle or otherwise--from those responsible for such arrangements to find them satisfactory. An alternative or supplementary approach would be to name an individual or small group as a devil's advocate assigned to develop actual plans for launching such an attack.
+
+The assignment to think like a terrorist liberates the designated person(s) to think unconventionally and be less inhibited about finding weaknesses in the system that might embarrass colleagues, because uncovering any such weaknesses is the assigned task. Devil's advocacy has a controversial history in the Intelligence Community. Suffice it to say that some competition between conflicting views is healthy and must be encouraged; all-out political battle is counterproductive.
+
+Recognizing When To Change Your Mind As a general rule, people are too slow to change an established view, as opposed to being too willing to change. The human mind is conservative. It resists change. Assumptions that worked well in the past continue to be applied to new situations long after they have become outmoded. Learning from Surprise. A study of senior managers in industry identified how some successful managers counteract this conservative bent.
+
+They do it, according to the study, By paying attention to their feelings of surprise when a particular fact does not fit their prior understanding, and then by highlighting rather than denying the novelty. Although surprise made them feel uncomfortable, it made them take the cause [of the surprise] seriously and inquire into it. . . .
+
+Rather than deny, downplay, or ignore disconfirmation [of their prior view], successful senior managers often treat it as friendly and in a way cherish the discomfort surprise creates. As a result, these managers often perceive novel situations early on and in a frame of mind relatively undistorted by hidebound notions.74
+
+Analysts should keep a record of unexpected events and think hard about what they might mean, not disregard them or explain them away. It is important to consider whether these surprises, however small, are consistent with some alternative hypothesis. One unexpected event may be easy to disregard, but a pattern of surprises may be the first clue that your understanding of what is happening requires some adjustment, is at best incomplete, and may be quite wrong. Strategic Assumptions vs. Tactical Indicators.
+
+Abraham Ben-Zvi analyzed five cases of intelligence failure to foresee a surprise attack.75 He made a useful distinction between estimates based on strategic assumptions and estimates based on tactical indications. Examples of strategic assumptions include the US belief in 1941 that Japan wished to avoid war at all costs because it recognized US military superiority, and the Israeli belief in 1973 that the Arabs would not attack Israel until they obtained sufficient air power to secure control of the skies.
+
+A more recent instance was the 1998 Indian nuclear test, which was widely viewed as a surprise and, at least in part, as a failure by the experts to warn of an impending test. The incorrect strategic assumption was that the new Indian Government would be dissuaded from testing nuclear weapons for fear of US economic sanctions.76 Tactical indicators are specific reports of preparations or intent to initiate hostile action or, in the recent Indian case, reports of preparations for a nuclear test.
+
+Ben-Zvi found that whenever strategic assumptions and tactical indicators of impending attack converged, an immediate threat was perceived and appropriate precautionary measures were taken.
+
+When discrepancies existed between tactical indicators and strategic assumptions in the five cases Ben-Zvi analyzed, the strategic assumptions always prevailed, and they were never reevaluated in the light of the increasing fow of contradictory information. Ben-Zvi concludes that tactical indicators should be given increased weight in the decisionmaking process. At a minimum, the emergence of tactical indicators that contradict our strategic assumption should trigger a higher level of intelligence alert.
+
+It may indicate that a bigger surprise is on the way. Chapter 8, "Analysis of Competing Hypotheses," provides a framework for identifying surprises and weighing tactical indicators and other forms of current evidence against longstanding assumptions and beliefs.
+
+Stimulating Creative Thinking Imagination and creativity play important roles in intelligence analysis as in most other human endeavors. Intelligence judgments require the ability to imagine possible causes and outcomes of a current situation. All possible outcomes are not given. The analyst must think of them by imagining scenarios that explicate how they might come about. Similarly, imagination as well as knowledge is required to reconstruct how a problem appears from the viewpoint of a foreign government.
+
+Creativity is required to question things that have long been taken for granted. The fact that apples fall from trees was well known to everyone. Newton's creative genius was to ask "why?" Intelligence analysts, too, are expected to raise new questions that lead to the identification of previously unrecognized relationships or to possible outcomes that had not previously been foreseen.
+
+A creative analytical product shows a fair for devising imaginative or innovative--but also accurate and effective--ways to fulfill any of the major requirements of analysis: gathering information, analyzing information, documenting evidence, and/or presenting conclusions. Tapping unusual sources of data, asking new questions, applying unusual analytic methods, and developing new types of products or new ways of fitting analysis to the needs of consumers are all examples of creative activity.
+
+A person's intelligence, as measured by IQ tests, has little to do with creativity, but the organizational environment exercises a major influence. New but appropriate ideas are most likely to arise in an organizational climate that nurtures their development and communication.
+
+The old view that creativity is something one is born with, and that it cannot be taught or developed, is largely untrue. While native talent, per se, is important and may be immutable, it is possible to learn to employ one's innate talents more productively. With understanding, practice, and conscious effort, analysts can learn to produce more imaginative, innovative, creative work. There is a large body of literature on creativity and how to stimulate it.
+
+At least a half-dozen different methods have been developed for teaching, facilitating, or liberating creative thinking. All the methods for teaching or facilitating creativity are based on the assumption that the process of thinking can be separated from the content of thought. One learns mental strategies that can be applied to any subject. It is not our purpose here to review commercially available programs for enhancing creativity.
+
+Such programmatic approaches can be applied more meaningfully to problems of new product development, advertising, or management than to intelligence analysis.
+
+It is relevant, however, to discuss several key principles and techniques that these programs have in common, and that individual intelligence analysts or groups of analysts can apply in their work. Intelligence analysts must generate ideas concerning potential causes or explanations of events, policies that might be pursued or actions taken by a foreign government, possible outcomes of an existing situation, and variables that will influence which outcome actually comes to pass.
+
+Analysts also need help to jog them out of mental ruts, to stimulate their memories and imaginations, and to perceive familiar events from a new perspective. Here are some of the principles and techniques of creative thinking that can be applied to intelligence analysis.
+
+Deferred Judgment. The principle of deferred judgment is undoubtedly the most important. The idea-generation phase of analysis should be separated from the idea-evaluation phase, with evaluation deferred until all possible ideas have been brought out. This approach runs contrary to the normal procedure of thinking of ideas and evaluating them concurrently. Stimulating the imagination and critical thinking are both important, but they do not mix well.
+
+A judgmental attitude dampens the imagination, whether it manifests itself as self-censorship of one's own ideas or fear of critical evaluation by colleagues or supervisors. Idea generation should be a freewheeling, unconstrained, uncritical process.
+
+New ideas are, by definition, unconventional, and therefore likely to be suppressed, either consciously or unconsciously, unless they are born in a secure and protected environment. Critical judgment should be suspended until after the idea-generation stage of analysis has been completed. A series of ideas should be written down and then evaluated later. This applies to idea searching by individuals as well as brainstorming in a group. Get all the ideas out on the table before evaluating any of them.
+
+Quantity Leads to Quality. A second principle is that quantity of ideas eventually leads to quality. This is based on the assumption that the first ideas that come to mind will be those that are most common or usual. It is necessary to run through these conventional ideas before arriving at original or different ones. People have habitual ways of thinking, ways that they continue to use because they have seemed successful in the past.
+
+It may well be that these habitual responses, the ones that come first to mind, are the best responses and that further search is unnecessary. In looking for usable new ideas, however, one should seek to generate as many ideas as possible before evaluating any of them. No Self-Imposed Constraints. A third principle is that thinking should be allowed--indeed encouraged--to range as freely as possible.
+
+It is necessary to free oneself from self-imposed constraints, whether they stem from analytical habit, limited perspective, social norms, emotional blocks, or whatever. Cross-Fertilization of Ideas. A fourth principle of creative problem-solving is that cross-fertilization of ideas is important and necessary. Ideas should be combined with each other to form more and even better ideas.
+
+If creative thinking involves forging new links between previously unrelated or weakly related concepts, then creativity will be stimulated by any activity that brings more concepts into juxtaposition with each other in fresh ways. Interaction with other analysts is one basic mechanism for this. As a general rule, people generate more creative ideas when teamed up with others; they help to build and develop each other's ideas. Personal interaction stimulates new associations between ideas.
+
+It also induces greater effort and helps maintain concentration on the task. These favorable comments on group processes are not meant to encompass standard committee meetings or coordination processes that force consensus based on the lowest common denominator of agreement.
+
+My positive words about group interaction apply primarily to brainstorming sessions aimed at generating new ideas and in which, according to the first principle discussed above, all criticism and evaluation are deferred until after the idea generation stage is completed. Thinking things out alone also has its advantages: individual thought tends to be more structured and systematic than interaction within a group.
+
+Optimal results come from alternating between individual thinking and team effort, using group interaction to generate ideas that supplement individual thought. A diverse group is clearly preferable to a homogeneous one. Some group participants should be analysts who are not close to the problem, inasmuch as their ideas are more likely to reflect different insights. Idea Evaluation. All creativity techniques are concerned with stimulating the fow of ideas.
+
+There are no comparable techniques for determining which ideas are best. The procedures are, therefore, aimed at idea generation rather than idea evaluation. The same procedures do aid in evaluation, however, in the sense that ability to generate more alternatives helps one see more potential consequences, repercussions, and effects that any single idea or action might entail.
+
+Organizational Environment A new idea is not the end product of the creative process. Rather, it is the beginning of what is sometimes a long and tortuous process of translating an idea into an innovative product. The idea must be developed, evaluated, and communicated to others, and this process is influenced by the organizational setting in which it transpires. The potentially useful new idea must pass over a number of hurdles before it is embraced as an organizational product.
+
+The following paragraphs describe in some detail research conducted by Frank Andrews to investigate the relationship among creative ability, organizational setting, and innovative research products.77 The subjects of this research were 115 scientists, each of whom had directed a research project dealing with social-psychological aspects of disease. These scientists were given standardized tests that measure creative ability and intelligence.
+
+They were also asked to fill out an extensive questionnaire concerning the environment in which their research was conducted. A panel of judges composed of the leading scientists in the field of medical sociology was asked to evaluate the principal published results from each of the 115 research projects. Judges evaluated the research results on the basis of productivity and innovation.
+
+Productivity was defined as the "extent to which the research represents an addition to knowledge along established lines of research or as extensions of previous theory." Innovativeness was defined as "additions to knowledge through new lines of research or the development of new theoretical statements of findings that were not explicit in previous theory.78 Innovation, in other words, involved raising new questions and developing new approaches to the acquisition of knowledge, as distinct from working productively within an already established framework.
+
 This same definition applies to innovation in intelligence analysis.
-      Andrews found virtually no relationship between the scientists' creative ability and the innovativeness of their research. (There was also no
-relationship between level of intelligence and innovativeness.) Those who
-scored high on tests of creative ability did not necessarily receive high
-ratings from the judges evaluating the innovativeness of their work. A
-possible explanation is that either creative ability or innovation, or both,
-were not measured accurately, but Andrews argues persuasively for another view. Various social and psychological factors have so great an effect on the steps needed to translate creative ability into an innovative
-research product that there is no measurable effect traceable to creative
-ability alone. In order to document this conclusion, Andrews analyzed
-data from the questionnaires in which the scientists described their work
-environment.
-      Andrews found that scientists possessing more creative ability produced more innovative work only under the following favorable conditions:
 
-   • When the scientist perceived himself or herself as responsible for
-      initiating new activities. The opportunity for innovation, and
-      the encouragement of it, are--not surprisingly--important variables.
+Andrews found virtually no relationship between the scientists' creative ability and the innovativeness of their research. (There was also no relationship between level of intelligence and innovativeness.) Those who scored high on tests of creative ability did not necessarily receive high ratings from the judges evaluating the innovativeness of their work. A possible explanation is that either creative ability or innovation, or both, were not measured accurately, but Andrews argues persuasively for another view.
 
+Various social and psychological factors have so great an effect on the steps needed to translate creative ability into an innovative research product that there is no measurable effect traceable to creative ability alone. In order to document this conclusion, Andrews analyzed data from the questionnaires in which the scientists described their work environment. Andrews found that scientists possessing more creative ability produced more innovative work only under the following favorable conditions:
 
-78. Ibid., p. 122.
+- When the scientist perceived himself or herself as responsible for initiating new activities. The opportunity for innovation, and the encouragement of it, are--not surprisingly--important variables.
 
+- When the scientist had considerable control over decisionmaking concerning his or her research program--in other words, the freedom to set goals, hire research assistants, and expend funds. Under these circumstances, a new idea is less likely to be snufed out before it can be developed into a creative and useful product.
 
-                                    79
+- When the scientist felt secure and comfortable in his or her professional role. New ideas are often disruptive, and pursuing them carries the risk of failure. People are more likely to advance new ideas if they feel secure in their positions.
 
-  • When the scientist had considerable control over decisionmaking concerning his or her research program--in other words, the
-     freedom to set goals, hire research assistants, and expend funds.
-     Under these circumstances, a new idea is less likely to be snufed
-     out before it can be developed into a creative and useful product.
+- When the scientist's administrative superior "stayed out of the way." Research is likely to be more innovative when the superior limits himself or herself to support and facilitation rather than direct involvement.
 
-  • When the scientist felt secure and comfortable in his or her professional role. New ideas are often disruptive, and pursuing them
-     carries the risk of failure. People are more likely to advance new
-     ideas if they feel secure in their positions.
+- When the project was relatively small with respect to the number of people involved, budget, and duration. Small size promotes fexibility, and this in turn is more conducive to creativity.
 
-  • When the scientist's administrative superior "stayed out of the
-     way." Research is likely to be more innovative when the superior
-     limits himself or herself to support and facilitation rather than
-     direct involvement.
+- When the scientist engaged in other activities, such as teaching or administration, in addition to the research project. Other work may provide useful stimulation or help one identify opportunities for developing or implementing new ideas. Some time away from the task, or an incubation period, is generally recognized as part of the creative process."
 
-  • When the project was relatively small with respect to the number
-     of people involved, budget, and duration. Small size promotes
-     fexibility, and this in turn is more conducive to creativity.
+The importance of any one of these factors was not very great, but their impact was cumulative. The presence of all or most of these conditions exerted a strongly favorable influence on the creative process. Conversely, the absence of these conditions made it quite unlikely that even highly creative scientists could develop their new ideas into innovative research results.
 
-  • When the scientist engaged in other activities, such as teaching or
-     administration, in addition to the research project. Other work
-     may provide useful stimulation or help one identify opportunities for developing or implementing new ideas. Some time away
-     from the task, or an incubation period, is generally recognized as
-     part of the creative process."
+Under unfavorable conditions, the most creatively inclined scientists produced even less innovative work than their less imaginative colleagues, presumably because they experienced greater frustration with their work environment.
 
-      The importance of any one of these factors was not very great, but
-their impact was cumulative. The presence of all or most of these conditions exerted a strongly favorable influence on the creative process.
-Conversely, the absence of these conditions made it quite unlikely that
-even highly creative scientists could develop their new ideas into innovative research results. Under unfavorable conditions, the most creatively
-inclined scientists produced even less innovative work than their less
-imaginative colleagues, presumably because they experienced greater
-frustration with their work environment.
+In summary, some degree of innate creative talent may be a necessary precondition for innovative work, but it is unlikely to be of much value unless the organizational environment in which that work is done nurtures the development and communication of new ideas. Under unfavorable circumstances, an individual's creative impulses probably will find expression outside the organization. There are, of course, exceptions to the rule. Some creativity occurs even in the face of intense opposition.
 
+A hostile environment can be stimulating, enlivening, and challenging. Some people gain satisfaction from viewing themselves as lonely fighters in the wilderness, but when it comes to conflict between a large organization and a creative individual within it, the organization generally wins. Recognizing the role of organizational environment in stimulating or suppressing creativity points the way to one obvious set of measures to enhance creative organizational performance.
 
-                                   80
+Managers of analysis, from first-echelon supervisors to the Director of Central Intelligence, should take steps to strengthen and broaden the perception among analysts that new ideas are welcome. This is not easy; creativity implies criticism of that which already exists. It is, therefore, inherently disruptive of established ideas and organizational practices.
 
-     In summary, some degree of innate creative talent may be a necessary precondition for innovative work, but it is unlikely to be of much
-value unless the organizational environment in which that work is done
-nurtures the development and communication of new ideas. Under unfavorable circumstances, an individual's creative impulses probably will
-find expression outside the organization.
-     There are, of course, exceptions to the rule. Some creativity occurs
-even in the face of intense opposition. A hostile environment can be
-stimulating, enlivening, and challenging. Some people gain satisfaction
-from viewing themselves as lonely fighters in the wilderness, but when it
-comes to confict between a large organization and a creative individual
-within it, the organization generally wins.
-     Recognizing the role of organizational environment in stimulating
-or suppressing creativity points the way to one obvious set of measures to
-enhance creative organizational performance. Managers of analysis, from
-first-echelon supervisors to the Director of Central Intelligence, should
-take steps to strengthen and broaden the perception among analysts that
-new ideas are welcome. This is not easy; creativity implies criticism of
-that which already exists. It is, therefore, inherently disruptive of established ideas and organizational practices.
-     Particularly within his or her own office, an analyst needs to enjoy a
-sense of security, so that partially developed ideas may be expressed and
-bounced of others as sounding boards with minimal fear of criticism or
-ridicule for deviating from established orthodoxy. At its inception, a new
-idea is frail and vulnerable. It needs to be nurtured, developed, and tested
-in a protected environment before being exposed to the harsh reality of
-public criticism. It is the responsibility of an analyst's immediate supervisor and office colleagues to provide this sheltered environment.
+Particularly within his or her own office, an analyst needs to enjoy a sense of security, so that partially developed ideas may be expressed and bounced of others as sounding boards with minimal fear of criticism or ridicule for deviating from established orthodoxy. At its inception, a new idea is frail and vulnerable. It needs to be nurtured, developed, and tested in a protected environment before being exposed to the harsh reality of public criticism.
 
-Conclusions
-     Creativity, in the sense of new and useful ideas, is at least as important in intelligence analysis as in any other human endeavor. Procedures
-to enhance innovative thinking are not new. Creative thinkers have employed them successfully for centuries. The only new elements--and even
-they may not be new anymore--are the grounding of these procedures
-in psychological theory to explain how and why they work, and their
-formalization in systematic creativity programs.
+It is the responsibility of an analyst's immediate supervisor and office colleagues to provide this sheltered environment.
 
+Conclusions Creativity, in the sense of new and useful ideas, is at least as important in intelligence analysis as in any other human endeavor. Procedures to enhance innovative thinking are not new. Creative thinkers have employed them successfully for centuries. The only new elements--and even they may not be new anymore--are the grounding of these procedures in psychological theory to explain how and why they work, and their formalization in systematic creativity programs.
 
-                                     81
+Learning creative problem-solving techniques does not change an analyst's native-born talents but helps an analyst achieve his or her full potential. Most people have the ability to be more innovative than they themselves realize. The effectiveness of these procedures depends, in large measure, upon the analyst's motivation, drive, and perseverance in taking the time required for thoughtful analysis despite the pressures of day-today duties, mail, and current intelligence reporting.
 
-     Learning creative problem-solving techniques does not change an
-analyst's native-born talents but helps an analyst achieve his or her full
-potential. Most people have the ability to be more innovative than they
-themselves realize. The effectiveness of these procedures depends, in large
-measure, upon the analyst's motivation, drive, and perseverance in taking
-the time required for thoughtful analysis despite the pressures of day-today duties, mail, and current intelligence reporting.
-     A questioning attitude is a prerequisite to a successful search for
-new ideas. Any analyst who is confident that he or she already knows the
-answer, and that this answer has not changed recently, is unlikely to produce innovative or imaginative work. Another prerequisite to creativity
-is sufficient strength of character to suggest new ideas to others, possibly
-at the expense of being rejected or even ridiculed on occasion. "The ideas
-of creative people often lead them into direct confict with the trends of
-their time, and they need the courage to be able to stand alone."79
+A questioning attitude is a prerequisite to a successful search for new ideas. Any analyst who is confident that he or she already knows the answer, and that this answer has not changed recently, is unlikely to produce innovative or imaginative work. Another prerequisite to creativity is sufficient strength of character to suggest new ideas to others, possibly at the expense of being rejected or even ridiculed on occasion.
 
-
-79. Robin Hogarth, Judgment and Choice (New York: Wiley, 1980), p. 117.
-
-
-                                           82
+"The ideas of creative people often lead them into direct conflict with the trends of their time, and they need the courage to be able to stand alone."79
 
 SOLUTIONS TO PUZZLE PRESENTED IN FIGURE 6
 
+The nine-dots puzzle illustrated in Figure 6 above and earlier in this chapter is difficult to solve only if one defines the problem to narrowly. A surprising number of people assume they are not supposed to let the pencil go outside an imaginary square drawn around the nine dots.
 
-    The nine-dots puzzle illustrated in Figure 6 above and earlier in this
-chapter is difficult to solve only if one defines the problem to narrowly.
-A surprising number of people assume they are not supposed to let the
-pencil go outside an imaginary square drawn around the nine dots.
+This unconscious constraint exists only in the mind of the problemsolver; it is not specified in the definition of the problem. With no limit on the length of lines, it should be relatively easy to come up with the answer shown in Figure 7.
 
+Another common, unconscious constraint is the assumption that the lines must pass through the center of the dots. This constraint, too, exists only in the mind of the problem solver. Without it, the three-line solution in Figure 8 becomes rather obvious.
 
-     This unconscious constraint exists only in the mind of the problemsolver; it is not specifed in the definition of the problem. With no limit
-on the length of lines, it should be relatively easy to come up with the
-answer shown in Figure 7.
+A more subtle and certainly more pervasive mental block is the assumption that such problems must be solved within a two-dimensionalplane. By rolling the paper to form a cylinder, it becomes possible to draw a single straight line that spirals through all nine dots, as in Figure 9.
 
+## Footnotes
 
-                                   83
+19. An earlier version of this article was published as part of "Cognitive Factors in Deception and Counterdeception," in Donald C. Daniel and Katherine L. Herbig, eds., Strategic Military Deception (Pergamon Press, 1982).
 
-     Another common, unconscious constraint is the assumption that
-the lines must pass through the center of the dots. This constraint, too,
-exists only in the mind of the problem solver. Without it, the three-line
-solution in Figure 8 becomes rather obvious.
+20. The article is written twice in each of the three phrases. This is commonly overlooked because perception is influenced by our expectations about how these familiar phrases are normally written.
 
+21. Jerome S. Bruner and Leo Postman, "On the Perception of Incongruity: A Paradigm," in Jerome S. Bruner and David Kraut, eds., Perception and Personality: A Symposium (New York: Greenwood Press, 1968).
 
-     A more subtle and certainly more pervasive mental block is the assumption that such problems must be solved within a two-dimensionalplane. By rolling the paper to form a cylinder, it becomes possible to draw
-a single straight line that spirals through all nine dots, as in Figure 9.
+22. For discussion of the ambiguous evidence concerning the impact of desires and fears on judgment, see Robert Jervis, Perception and Misperception in International Politics (Princeton, NJ: Princeton University Press, 1976), Chapter 10.
 
+23. Richard Betts, "Analysis, War and Decision: Why Intelligence Failures are Inevitable", World Politics, Vol. XXXI (October 1978), p. 84.
 
-                                    84
+24. Drawings devised by Gerald Fisher in 1967.
+
+25. Jervis, p. 195.
+
+26. This picture was originally published in Puck magazine in 1915 as a cartoon entitled "My Wife and My Mother-in-Law."
+
+27. The old woman's nose, mouth, and eye are, respectively, the young woman's chin, necklace, ear. The old woman is seen in profile looking left. The young woman is also looking left, but we see her mainly from behind so most facial features are not visible. Her eyelash, nose, and the curve of her cheek may be seen just above the old woman's nose.
+
+28. Jerome S. Bruner and Mary C. Potter, "Interference in Visual Recognition," Science, Vol. 144 (1964), pp. 424-25.
+
+29. The Performance of the Intelligence Community Before the Arab-Israeli War of October 1973: A Preliminary Post-Mortem Report, December 1973. The one-paragraph excerpt from this postmortem, as quoted in the text above, has been approved for public release, as was the title of the post-mortem, although that document as a whole remains classified.
+
+65. Christopher Brady, "Intelligence Failures: Plus Ca Change. . ." Intelligence and National Security, Vol. 8, No. 4 (October 1993). N. Cigar, "Iraq's Strategic Mindset and the Gulf War: Blueprint for Defeat," The Journal of Strategic Studies, Vol. 15, No. 1 (March 1992). J. J. Wirtz, The Tet Offensive: Intelligence Failure in War (New York, 1991). Ephraim Kam, Surprise Attack (Harvard University Press, 1988). Richard Betts, Surprise Attack: Lessons for Defense Planning (Brookings, 1982). Abraham Ben-Zvi, "The Study of Surprise Attacks," British Journal of International Studies, Vol. 5 (1979). Iran: Evaluation of Intelligence Performance Prior to November 1978 (Staff Report, Subcommittee on Evaluation, Permanent Select Committee on Intelligence, US House of Representatives, January 1979). Richard Betts, "Analysis, War and Decision: Why Intelligence Failures Are Inevitable," World Politics, Vol. 31, No. 1 (October 1978). Richard W. Shryock, "The Intelligence Community Post-Mortem Program, 1973-1975," Studies in Intelligence, Vol. 21, No. 1 (Fall 1977). Avi Schlaim, "Failures in National Intelligence Estimates: The Case of the Yom Kippur War," World Politics, Vol. 28 (April 1976). Michael Handel, Perception, Deception, and Surprise: The Case of the Yom Kippur War (Jerusalem: Leonard Davis Institute of International Relations, Jerusalem Paper No. 19, 1976). Klaus Knorr, "Failures in National Intelligence Estimates: The Case of the Cuban Missiles," World Politics, Vol. 16 (1964).
+
+66. Roberta Wohlstetter, Pearl Harbor: Warning and Decision (Stanford University Press, 1962). Roberta Wohlstetter, "Cuba and Pearl Harbor: Hindsight and Foresight," Foreign Affairs, Vol. 43, No. 4 (July 1965).
+
+67. S. A. Mednick, "The Associative Basis of the Creative Process," Psychological Review, Vol. 69 (1962), p. 221.
+
+68. Jerry E. Bishop, "Stroke Patients Yield Clues to Brain's Ability to Create Language," Wall Street Journal, Oct. 12, 1993, p.A1.
+
+69. The puzzle is from James L. Adams, Conceptual Blockbusting: A Guide to Better Ideas. Second Edition (New York: W. W. Norton, 1980), p. 23.
+
+70. Jim Wolf, "CIA Inquest Finds US Missed Indian `Mindset'," UPI wire service, June 3, 1998.
+
+71. Discussion with Robert Jaster, former National Intelligence Officer for Southern Africa.
+
+72. Jon Fallesen, Rex Michel, James Lussier, and Julia Pounds, "Practical Thinking: Innovation in Battle Command Instruction" (Technical Report 1037, US Army Research Institute for the Behavioral and Social Sciences, January 1996).
+
+73. For an interesting discussion of the strengths and potential weaknesses of the "devil's advocate" approach, see Robert Jervis, Perception and Misperception in International Politics (Princeton, NJ: Princeton University Press, 1976), pp. 415-418.
+
+74. Daniel J. Isenberg, "How Senior Managers Tink," in David Bell, Howard Raifa, and Amos Tversky, Decision Making: Descriptive, Normative, and Prescriptive Interactions (Cambridge University Press, 1988), p. 535.
+
+75. Abraham Ben Zvi, "Hindsight and Foresight: A Conceptual Framework for the Analysis of Surprise Attacks," World Politics, April 1976.
+
+76. Transcript of Admiral David Jeremiah's news conference on the Intelligence Community's performance concerning the Indian nuclear test, fourth and fifth paragraphs and first Q and A, 2 June 1998.
+
+77. Frank M. Andrews, "Social and Psychological Factors Which Influence the Creative Process," in Irving A. Taylor and Jacob W. Getzels, eds., Perspectives in Creativity (Chicago, Aldine Publishing, 1975).
+
+78. Ibid., p. 122.
+
+79. Robin Hogarth, Judgment and Choice (New York: Wiley, 1980), p. 117.
